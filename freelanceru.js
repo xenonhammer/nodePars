@@ -3,19 +3,20 @@ const iconv = require('iconv-lite')
 const cheerio = require('cheerio');
 const fs = require('fs')
 
-var parsedata = [];
-var index = 0;
+var parseData = {};
+
 
 function freelanceParser(
-    data,
-    url = 'https://freelance.ru/projects/?', 
+    parseData,
     category = "spec=116", 
-    pageNum = 0, 
-    breakpoint = 2,
-    website = 'freelance_ru'
+    url = `https://freelance.ru/projects/?${category}`, 
+    pageNum = 1, 
+    breakpoint = 10,
+    website = 'freelance_ru',
+    index = 0
     ) {   
 
-    axios.get('https://freelance.ru/projects/?spec=116&page=1',
+    axios.get(url,
         {
             responseType: 'arraybuffer',
             responseEncoding: 'binary'  
@@ -25,32 +26,31 @@ function freelanceParser(
         let $ = cheerio.load(response);
         $('.proj').each((i, elem) => {
             index++
-            parsedata.push(
-            {[index] : {
+            parseData[index] = {
                 'id': Math.floor(Math.random()*999999999),
                 'title': $(elem).find('.p_title a span').text(),
                 'href': $(elem).find('.p_title .ptitle').attr('href'),
                 'price': $(elem).find('.descr .visible-xs.cost_xs').text().replace(/(Бюджет: )?(р\.)?( +)?/ig, ''),
                 'description': $(elem).find('.descr p span').text().replace(/Бюджет:( +)(\d+)?( +)?(\d+)?( +)?(р\.)?(Договорная)?/mig, ''),
                 'website': website
-            }});
+            };
         });
-        pageNum += 1    
+        pageNum++    
         let page = `&page=${pageNum}`;
-        url = url.replace(/(c\=[0-9]{1,3})?&page=+[0-9]{1,3}/igm, '')
+        url = url.replace(/(spec\=[0-9]{1,3})?&page=+[0-9]{1,3}/igm, '')
         url = url + category + page
 
-        fs.appendFile("data.json", JSON.stringify(parsedata, null, 2), error => {
+        fs.writeFile("data.json", JSON.stringify(parseData, null, 2), error => {
             if(error) throw error; // если возникла ошибка
             console.log("Асинхронная запись файла завершена.");
-        })  
+        })
 
         if(pageNum === breakpoint){
-            return parsedata;
+            return JSON.stringify(parseData);
         };
-
-        freelanceParser(parsedata, url, category, pageNum, breakpoint)
+        console.log('url:', url)
+        freelanceParser(parseData, category, url, pageNum, breakpoint, null, index)
     })
 }
 
- freelanceParser(parsedata)
+freelanceParser(parseData)

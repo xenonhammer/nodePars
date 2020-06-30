@@ -1,16 +1,17 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
+const fs = require('fs')
 
 var parseData = [];
-var i = 0;
 
 function kworkParser(
     parseData,
-    url = 'https://kwork.ru/projects?', 
     category = "c=11", 
-    pageNum = 0, 
+    url = `https://kwork.ru/projects?${category}`, 
+    pageNum = 1, 
     breakpoint = 10,
-    website = 'kwork'
+    website = 'kwork',
+    index = 0
     ) {   
 
     axios.get(url)
@@ -24,9 +25,9 @@ function kworkParser(
                 'title': $(elem).find('.wants-card__header-title:first-child').text(),
                 'href': $(elem).find('.wants-card__header-title a').attr('href'),
                 'price': $(elem).find('.wants-card__header-price.wants-card__price.m-hidden').text().replace(/[^0-9](fs12)?/ig, ''),
-                'description': $(elem).find('.first-letter.hidden').text() 
-                    ? $(elem).find('.first-letter.hidden').text().replace(/Скрыть/ig, '') 
-                    : $(elem).find('.first-letter').text(),
+                'description': $(elem).find('.first-letter.hidden').html() 
+                    ? $(elem).find('.first-letter.hidden').html().replace(/Скрыть/ig, '') 
+                    : $(elem).find('.first-letter').html(),
                 'website': website
             }});
         });
@@ -35,10 +36,15 @@ function kworkParser(
         url = url.replace(/(c\=[0-9]{1,3})?&page=+[0-9]{1,3}/igm, '')
         url = url + category + page
 
+        fs.writeFile("data.json", JSON.stringify(parseData, null, 2), error => {
+            if(error) throw error; // если возникла ошибка
+            console.log("Асинхронная запись файла завершена.");
+        })
+
         if(pageNum === breakpoint){
             return JSON.stringify(parseData);
         };
-        kworkParser(parseData, url, category, pageNum, breakpoint)
+        kworkParser(parseData, category, url, pageNum, breakpoint, null, index)
     }) 
 }
 
