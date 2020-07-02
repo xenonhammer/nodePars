@@ -1,1802 +1,202 @@
 {
   "1": {
-    "id": 745379035,
-    "title": "Редактирование сайта под Битриксом",
-    "href": "/projects/redaktirovanie-sajta-pod-bitriksom-1215848.html",
+    "id": 464123383,
+    "title": "Нужно разобраться с установкой demo data ",
+    "href": "/projects/nuzhno-razobratsya-s-ustanovkoj-demo-data-1216055.html",
     "price": "Договорная",
-    "description": " Необходимо внести изменения в сайт под Битриксом:\n- меню: изменить некоторые названия страниц меню, поменять местами пункты меню\n- главная: поменять фото, редакти…",
+    "description": " Нужно разобраться с установкой demo data. Выскакивает ошибка «critical error“ при установке.\nНужно быстро.",
     "website": "freelance_ru"
   },
   "2": {
-    "id": 490048167,
-    "title": "Cайт-каталог фильмов. Работа над ошибками",
-    "href": "/projects/cajt-katalog-filmov-rabota-nad-oshibkami-1198994.html",
-    "price": "1500",
-    "description": " Сделан сайт, находится по адресу: kinoking.ws\nТребуется исправить ошибки от предыдущего \"фрилансера\".\nСамое главное - на странице фильма не работает ред…",
-    "website": "freelance_ru"
-  },
-  "3": {
-    "id": 999290851,
-    "title": "Натянуть страницы сайта ",
-    "href": "/projects/natyanut-stranici-sajta-1215465.html",
-    "price": "25000",
-    "description": " Нужно донатянуть странички нового дизайна на сайт. Главная, каталог товара, карточки товаров, корзина, и т п, – это все натянуто новым дизайном.  Обновление проходи…",
-    "website": "freelance_ru"
-  },
-  "4": {
-    "id": 645580190,
-    "title": "Импорт постов из FB и Instagram на PHP(желательно)",
-    "href": "/projects/import-postov-fb-i-instagram-na-php-zhelatelno-1215245.html",
-    "price": "Договорная",
-    "description": " Здравствуйте.\nНеобходимо настроить получение постов из FB и Instagram компании, которые будут выводится в виде новостей на сайте. Реализовать можно на любом языке …",
-    "website": "freelance_ru"
-  },
-  "5": {
-    "id": 442232151,
-    "title": "разработка логотипа сайта, подключение контактной формы",
-    "href": "/projects/razrabotka-logotipa-sajta-podklyuchenie-kontaktnoj-formi-1215846.html",
-    "price": "1000",
-    "description": " разработать стильный логотип для сайта kingmasters.ru и сделать все контактные  формы, чтобы корректно работали все файлы почты , + установка на сайт . и т.д. \nваш…",
-    "website": "freelance_ru"
-  },
-  "6": {
-    "id": 681838569,
-    "title": "Нужно быстро сделать интернет-магазин на площадке Shopify",
-    "href": "/projects/nuzhno-bistro-sdelat-internet-magazin-na-ploshadke-shopify-1215839.html",
-    "price": "Договорная",
-    "description": " Нужно сделать интернет-магазин на площадке Shopify. Особых требований нету, просто его заполнить на одну тематику, чтобы красиво выглядел и все. Лучше писать новичк…",
-    "website": "freelance_ru"
-  },
-  "7": {
-    "id": 591366085,
-    "title": "Магазин: Верстка + Битрикс",
-    "href": "/projects/magazin-verstka-bitriks-1215838.html",
-    "price": "45000",
-    "description": " Всем привет!\n\nНужно сверстать магазин и натянуть на cms битрикс.\n\nМакет: https://docs.google.com/document/d/1AgHo4AyRLXjYL05JUqudESrTbZRalHJzi5geVI8OoPo/edit?us…",
-    "website": "freelance_ru"
-  },
-  "8": {
-    "id": 429287591,
-    "title": "Нужно разработать одностраничный сайт на вордпресс с дизайном",
-    "href": "/projects/nuzhno-razrabotat-odnostranichny-sajt-na-vordpress-s-dizajnom-1215833.html",
-    "price": "12000",
-    "description": " За основу берём сайт :\nskystudio.work\nНужно будет взять этот сайт , что то добавить и что то убрать.( В лс все расскажу )\nБюджет будет 12 тыс , срок неделя.\nНуж…",
-    "website": "freelance_ru"
-  },
-  "9": {
-    "id": 195236896,
-    "title": "Админка на Limitless - Responsive Web Application Kit",
-    "href": "/projects/adminka-na-limitless-responsive-web-application-kit-1215832.html",
-    "price": "Договорная",
-    "description": " Требуется написать интерфейс для копирайтеров используя Limitless - Responsive Web Application Kit. В интерфейсе должны будут присутствовать инструменты проверки те…",
-    "website": "freelance_ru"
-  },
-  "10": {
-    "id": 702302209,
-    "title": "Интернет магазин косметики",
-    "href": "/projects/internet-magazin-kosmetiki-1215825.html",
-    "price": "150000",
-    "description": " Сделать подгрузчик файлов (несколько различных поставщиков объединить в один файл номенклатура товара более 7 тыс единиц)\n\nИнтеграция сайта с МойСклад\t\nПомощь в …",
-    "website": "freelance_ru"
-  },
-  "11": {
-    "id": 665073412,
-    "title": "Добавить отзывы на сайте (Wordpress)",
-    "href": "/projects/dobavit-otzivi-na-sajte-wordpress-1215820.html",
-    "price": "14000",
-    "description": " Реализовать отзывы на сайте:\n1) добавить новый тип записей, рубрик, меток, см прикр файл. \n2) добавить возможность публикации отзывов без админки.\n\nСроки догово…",
-    "website": "freelance_ru"
-  },
-  "12": {
-    "id": 459738423,
-    "title": "Перенос калькулятора пластиковых окон с платформы Wix на платформу Tilda Publishing. ",
-    "href": "/projects/perenos-kalkulyatora-plastikovih-okon-platformi-wix-platformu-tilda-1215818.html",
-    "price": "Договорная",
-    "description": " Задача: перенести готовый калькулятор, выполненный на платформе Wix, на платформу Tilda Publishing. Логика расчета будет такая же, но требуется изменить значения ка…",
-    "website": "freelance_ru"
-  },
-  "13": {
-    "id": 20437223,
-    "title": "Правки на сайте WP",
-    "href": "/projects/pravki-na-sajte-wp-1215816.html",
-    "price": "Договорная",
-    "description": " В верхнее меню на сайте попадают все услуги не по структуре https://prnt.sc/t9774m \n\nРассмотрим подробнее:\n\nУ нас есть подразделы которые должны попадать первым…",
-    "website": "freelance_ru"
-  },
-  "14": {
-    "id": 603050459,
-    "title": "корректировка, наполнение, редактирование сайта",
-    "href": "/projects/korrektirovka-napolnenie-redaktirovanie-sajta-1215811.html",
-    "price": "1000",
-    "description": " наполнение, редактирование сайта",
-    "website": "freelance_ru"
-  },
-  "15": {
-    "id": 217785675,
-    "title": "1С-Битрикс. Выгрузка товаров в Яндекс.Маркет и Беру",
-    "href": "/projects/bitriks-vigruzka-tovarov-v-yandeks-market-i-beru-1215800.html",
-    "price": "Договорная",
-    "description": " ТЗ на разработку https://docs.google.com/document/d/1OP0vmBQMWDdIg-NVjoStrdMQhUBcTQhWEKXY4OPiWWs/edit\nТребуется оценка стоимости и сроков исполнения. Оплата по без…",
-    "website": "freelance_ru"
-  },
-  "16": {
-    "id": 269131172,
-    "title": "Разработка API",
-    "href": "/projects/razrabotka-api-1215787.html",
-    "price": "Договорная",
-    "description": " Требуется разработать API для получения данных с базы данных MsSql.\n\nТребования к API:\nИспользуются HTTP-POST запросы в формате JSON на /ex-api/v1/execute.\nСооб…",
-    "website": "freelance_ru"
-  },
-  "17": {
-    "id": 83603548,
-    "title": "Создание дизайна для страницы сайта +верстка BITRIX ",
-    "href": "/projects/sozdanie-dizajna-dlya-stranici-sajta-verstka-bitrix-1215774.html",
-    "price": "5000",
-    "description": " Создание Веб-дизайна бонусной программы компании.\nБитрикс (Аспро)\nВерстка дизайна",
-    "website": "freelance_ru"
-  },
-  "18": {
-    "id": 465855854,
-    "title": "Написать тему для magento 2.3",
-    "href": "/projects/napisat-temu-dlya-magento-2-3-1215771.html",
-    "price": "Договорная",
-    "description": " Задача в названии, дизайн есть. \nВозможно расширение заказа - зависит от квалификации исполнителя: доработка админки, поиска, фильтра, некоторых модулей.\nНазывайт…",
-    "website": "freelance_ru"
-  },
-  "19": {
-    "id": 412867,
-    "title": "Создание многостраничного сайта",
-    "href": "/projects/sozdanie-mnogostranichnogo-sajta-1215764.html",
-    "price": "Договорная",
-    "description": " Создание многостраничного сайта для косметологической клиники и СЕО продвижение.\nВ отклике ОБЯЗАТЕЛЬНО указывайте примерную стоимость и что входит\nПример дизайна …",
-    "website": "freelance_ru"
-  },
-  "20": {
-    "id": 805081929,
-    "title": "Нужен дизайнер",
-    "href": "/projects/nuzhen-dizajner-1215749.html",
-    "price": "Договорная",
-    "description": " Готова главная страница нужно сделать внутряки.\n\nпишите цены за главную и внутряки среднюю\n\nОплата только поэтапно по факту",
-    "website": "freelance_ru"
-  },
-  "21": {
-    "id": 68873628,
-    "title": "Многостраничный сайт (П-С)",
-    "href": "/projects/mnogostranichny-sajt-p-s-1215748.html",
-    "price": "20000",
-    "description": " Сайт каталог будет представлять собой 10-15 страниц:\n•\tГлавная\n•\tО Компании (сколько на рынке, что выполняли, история, сертификаты) \n•\tНовостной блог\n•\tПортфоли…",
-    "website": "freelance_ru"
-  },
-  "22": {
-    "id": 427719914,
-    "title": "Срочно, поправить меню",
-    "href": "/projects/srochno-popravit-menyu-1215737.html",
-    "price": "Договорная",
-    "description": " дать стили, чтобы я мог регулировать вид меню в мобильных версиях по ширине\n\nдо 480\nдо 640\nдо 960\nдо 1200\n\n1. высота меню http://joxi.ru/L21KpYtgQD5BrX\n2. ф…",
-    "website": "freelance_ru"
-  },
-  "23": {
-    "id": 510723231,
-    "title": "Лэндинг спорт-клуба",
-    "href": "/projects/lending-sport-kluba-1215734.html",
-    "price": "Договорная",
-    "description": " Необходимо разработать лэндинг спорт-клуба.\nВысота до 5000px\nАдаптивность под мобильные устройства",
-    "website": "freelance_ru"
-  },
-  "24": {
-    "id": 914436103,
-    "title": "Создать сайт- однастраничник на WordPress (установит Мультисайт (Multisite)) ",
-    "href": "/projects/sozdat-sajt-odnastranichnik-na-wordpress-ustanovit-multisajt-multisite-1215731.html",
-    "price": "Договорная",
-    "description": " Необходимо создать сайт на WordPress аналогичный данному \"http://vyivoz-musora24.ru\"\nНужно установить \"Мультисайт\" для возможности развития сай…",
-    "website": "freelance_ru"
-  },
-  "25": {
-    "id": 692182999,
-    "title": "Необходимо доделать сайт на WordPress, исполнитель только территория РБ",
-    "href": "/projects/neobhodimo-dodelat-sajt-wordpress-ispolnitel-tolko-territoriya-rb-1215729.html",
-    "price": "Договорная",
-    "description": " Требуется специалист хорошо разбирающийся в WordPress. Необходимо доделать сайт. А так же работа над реализуемым проектом.Исполнитель находится на территории Респуб…",
-    "website": "freelance_ru"
-  },
-  "26": {
-    "id": 682739490,
-    "title": "Создать страницу. Bitrix",
-    "href": "/projects/sozdat-stranicu-bitrix-1215708.html",
-    "price": "500",
-    "description": " Добрый день!\n\nНеобходимо создать страницу на сайте и наполнить её текстом и изображениями из pdf-файла. Более подробно с заданием можно ознакомиться в ТЗ.\nТЗ при…",
-    "website": null
-  },
-  "27": {
-    "id": 753751023,
-    "title": "Сайт интернет магазина",
-    "href": "/projects/sajt-internet-magazina-1215696.html",
-    "price": "Договорная",
-    "description": " Требуется сайт интернет магазина зоотоваров, с фото товаров и ценами и возможностью легко их менять дополнять и удалять. С онлайн оплатой на сайте. Желательная опла…",
-    "website": null
-  },
-  "28": {
-    "id": 405552749,
-    "title": "Перевод сайта на платформу cms sonata c переносом всего контента и функционала",
-    "href": "/projects/perevod-sajta-platformu-cms-sonata-perenosom-vsego-kontenta-1215695.html",
-    "price": "300000",
-    "description": " Нужно сайт (сайт скину в личку) перевести на платформу cms sonata c переносом всего контента и функционала\nБудет дан билд cms sonata с уже прикрученным дизайном ко…",
-    "website": null
-  },
-  "29": {
-    "id": 15020328,
-    "title": "Добавление товаров на сайт",
-    "href": "/projects/dobavlenie-tovarov-na-sajt-1215694.html",
-    "price": "Договорная",
-    "description": " Требуется контент-менеджер на 1С Битрикс для добавления товаров на сайт.\nТекущая задача 127 товаров\nДобавляем фотографию, состав (данные есть), стоимость, указыва…",
-    "website": null
-  },
-  "30": {
-    "id": 769478276,
-    "title": "Сайт на Tilda ",
-    "href": "/projects/sajt-na-tilda-1215691.html",
-    "price": "Договорная",
-    "description": " Приветствую всех ! \nТребуется сделать сайт на Tilda с нуля. Так же есть вторая задача, имеется  готовый сайт, но надо в нем сделать небольшие правки. Все покажу, р…",
-    "website": null
-  },
-  "31": {
-    "id": 689734752,
-    "title": "Грамотно составленный и качественно реализованный Лендинг согласно ТЗ",
-    "href": "/projects/gramotno-sostavlenny-i-kachestvenno-realizovanny-lending-soglasno-1215681.html",
-    "price": "Договорная",
-    "description": " Качественный грамотно реализованный лендинг согласно ТЗ\nВсю информацию необходимую для работы предоставлю.\nСрок исполнения 3-4 дня, бюджет 7К.",
-    "website": null
-  },
-  "32": {
-    "id": 958763181,
-    "title": "Груминг животных (частный мастер)",
-    "href": "/projects/gruming-zhivotnih-chastny-master-1215661.html",
-    "price": "3000",
-    "description": " ленндинг страница. груминг частный мастер",
-    "website": null
-  },
-  "33": {
-    "id": 1406225,
-    "title": "Web-дизайн корпоративного сайта",
-    "href": "/projects/web-dizajn-korporativnogo-sajta-1215659.html",
-    "price": "Договорная",
-    "description": " Необходим новый UI-дизайн для нашего корпоративного сайта, сама структура сайта нас устраивает, логотип есть. ",
-    "website": null
-  },
-  "34": {
-    "id": 543123661,
-    "title": "Сайт визитка с обратной связью",
-    "href": "/projects/sajt-vizitka-s-obratnoj-svyazyu-1215657.html",
-    "price": "Договорная",
-    "description": " Требуется сайт визитка для комиссионного магазина ТехноСкупка. С обратной связью (онлайн оценка техники)\nЦвет красный, белый \n",
-    "website": null
-  },
-  "35": {
-    "id": 896987608,
-    "title": "Сделать дизайн одной страницы готового сайта.",
-    "href": "/projects/sdelat-dizajn-odnoj-stranici-gotovogo-sajta-1215656.html",
-    "price": "1000",
-    "description": " На сайте только описание услуг. Фотографии отсутствуют, шрифты простые, оформление простое. Надо оформить страницу красочно и удобно для клиента.  Дизайн на усмотре…",
-    "website": null
-  },
-  "36": {
-    "id": 695993644,
-    "title": "Спарсить (скопировать) товары, категории и атрибуты с другого сайта.",
-    "href": "/projects/sparsit-skopirovat-tovari-kategorii-atributi-s-drugogo-sajta-1215655.html",
-    "price": "Договорная",
-    "description": " Необходимо перенести все товары, категории и атрибуты с другого сайта. Как именно вручную или парсером без разницы. Предлагайте цену и срок.\n\nСайт донор: https://…",
-    "website": null
-  },
-  "37": {
-    "id": 41049762,
-    "title": "Мы продаем семена овощных культур. Нужен четкий сайт",
-    "href": "/projects/mi-prodaem-semena-ovoshnih-kultur-nuzhen-chetkij-sajt-1215648.html",
-    "price": "Договорная",
-    "description": " Нужно сделать сайт. мы продаем семена овощных культур\n",
-    "website": null
-  },
-  "38": {
-    "id": 383740884,
-    "title": "Добавить несколько новых страниц к уже существующему сайту",
-    "href": "/projects/dobavit-neskolko-novih-stranic-k-uzhe-sushestvuyushemu-sajtu-1215645.html",
-    "price": "Договорная",
-    "description": " Необходимо добавить несколько новых страниц к уже существующему сайту кальянного бренда.\n\nДолгосрочная работа: периодически будем скидывать текст и графику для оч…",
-    "website": null
-  },
-  "39": {
-    "id": 778702578,
-    "title": "Внесение правок по интернет-магазину на wordpress",
-    "href": "/projects/vnesenie-pravok-po-internet-magazinu-na-wordpress-1215623.html",
-    "price": "3000",
-    "description": " Задачи с звездочкой отмечены как не обязательные.",
-    "website": null
-  },
-  "40": {
-    "id": 4573183,
-    "title": "Удалить ненужные файлы с платформы на Moodle",
-    "href": "/projects/udalit-nenuzhnie-fajli-s-platformi-na-moodle-1215620.html",
-    "price": "1500",
-    "description": " С главной странице платформы нужно удалить все материалы, которые помещены в квадрат. И показать мне, как их удалять для исключения в дальнейшем этой проблемы",
-    "website": null
-  },
-  "41": {
-    "id": 314159939,
-    "title": "сделать слайдер на весь ФОН",
-    "href": "/projects/sdelat-slajder-na-ves-fon-1215618.html",
-    "price": "300",
-    "description": " верстка готова слайдер тоже но нужна доработать за 10 мин \nСюда пишите сразу в телегу https://t.me/SemyonV",
-    "website": null
-  },
-  "42": {
-    "id": 350495699,
-    "title": "Настройка и интеграция Retailcrm системы и обучение по ее использованию.",
-    "href": "/projects/nastrojka-integraciya-retailcrm-sistemi-obuchenie-po-ee-ispolzovaniyu-1215584.html",
-    "price": "Договорная",
-    "description": " Необходимо провести настройку Retailcrm и обучить пользоваться по Skype или Zoom не важно. Оплата почасовая",
-    "website": null
-  },
-  "43": {
-    "id": 938518162,
-    "title": "Доработка и ведение самописного сайта на ВордПресс.",
-    "href": "/projects/dorabotka-i-vedenie-samopisnogo-sajta-na-vordpress-1215583.html",
-    "price": "Договорная",
-    "description": " Код (html, css, js, pnp).",
-    "website": null
-  },
-  "44": {
-    "id": 535053506,
-    "title": "Реализация нескольких моментов на страницах простого интернет магазина",
-    "href": "/projects/realizaciya-neskolkih-momentov-na-stranicah-prostogo-internet-magazina-1215576.html",
-    "price": "Договорная",
-    "description": " Привет, друзья!\n\nТребуется реализовать 2 момента на 2-ух страницах интернет магазина:\n\n1)Нужно сделать каталог товаров на главной странице. При переключении меж…",
-    "website": null
-  },
-  "45": {
-    "id": 675419309,
-    "title": "Верстануть дизайн на сайт",
-    "href": "/projects/verstanut-dizajn-na-sajt-1215575.html",
-    "price": "10000",
-    "description": " Верстануть на сайт дизайн\nСам сайт куда надо верстануть: https://sales-zone.ru/\nПример страниц в png(когда выберу исполнителя выдам формате в PSD)\n1. Главная стр…",
-    "website": null
-  },
-  "46": {
-    "id": 108273654,
-    "title": "Визуальный генератор запросов помощи при покупке",
-    "href": "/projects/vizualny-generator-zaprosov-pomoshi-pri-pokupke-1215563.html",
-    "price": "Договорная",
-    "description": " Необходимо создать визуальный генератор запросов помощи при покупки в интернет-магазинах.\n\nЭто должна быть страница, на которой человек вводит адрес страницы мага…",
-    "website": null
-  },
-  "47": {
-    "id": 608759780,
-    "title": "Верстка сайта мужских костюмов",
-    "href": "/projects/vyorstka-sajta-muzhskih-kostyumov-1215562.html",
-    "price": "6000",
-    "description": " Нужно выполнить качественную вёрстку сайта по макетам (pc и mobile версии). Сайт похож на http://143019.lp.tobiz.net/man-clothes/ . Предлагайте сроки, цену, ваше по…",
-    "website": null
-  },
-  "48": {
-    "id": 639299766,
-    "title": "Создание сайта на Wordpress",
-    "href": "/projects/sozdanie-sajta-na-wordpress-1215559.html",
-    "price": "Договорная",
-    "description": " Необходимо создать аналогичный сайт - https://myttk.su/",
-    "website": null
-  },
-  "49": {
-    "id": 330746224,
-    "title": "Нужен дизайн-макет landing page по продаже мужских костюмов",
-    "href": "/projects/nuzhen-dizajn-maket-landing-page-prodazhe-muzhskih-kostyumov-1215558.html",
-    "price": "Договорная",
-    "description": " Всем здравствуйте, необходимо сделать дизайн landing page по продаже мужских костюмов. Должна быть шапка, 3 секции с товаром (костюмы, рубашки, галстуки) ну и пара …",
-    "website": null
-  },
-  "50": {
-    "id": 904257304,
-    "title": "Программист разработчик: Angular / node.",
-    "href": "/projects/programmist-razrabotchik-angular-node-1215545.html",
-    "price": "300000",
-    "description": " Привет,\n\nго поработаем)\n\nНам нужен специалист, который в силах доработать реализованную на 70%+ партнёрку.\n\nAngular на фронте, бэк на node js   \nServer – koa…",
-    "website": null
-  },
-  "51": {
-    "id": 155830332,
-    "title": "Верстальщик на периодические задачи",
-    "href": "/projects/verstalshik-na-periodicheskie-zadachi-1215542.html",
-    "price": "Договорная",
-    "description": " Требуется верстальщик на периодические задачи.\nТекущий объем работ - начисто переверстать страницу отдельной новости uproxx.com с целью уйти от wordpress-специфичн…",
-    "website": null
-  },
-  "52": {
-    "id": 731942233,
-    "title": "Создание сайта для Российского Фонда",
-    "href": "/projects/sozdanie-sajta-dlya-rossijskogo-fonda-1215541.html",
-    "price": "Договорная",
-    "description": " Ищу разработчика, который сможет подхватит созданный (пустой) сайт на WordPress и доработать его, либо создать новый! Домен уже зарегистрирован! \n\nСайт создается …",
-    "website": null
-  },
-  "53": {
-    "id": 958732534,
-    "title": "Необходимо создать шаблон сайта услуг",
-    "href": "/projects/neobhodimo-sozdat-shablon-sajta-uslug-1215538.html",
-    "price": "5000",
-    "description": " Необходимо создать шаблон сайта услуг по следующему подобию:\n\n1. Главная страница: https://kwork.ru\n2. Страница подкатегорий: https://kwork.ru/categories/program…",
-    "website": null
-  },
-  "54": {
-    "id": 571931464,
-    "title": "разработка сайта витрины",
-    "href": "/projects/razrabotka-sajta-vitrini-1215535.html",
-    "price": "Договорная",
-    "description": " Сайт витрина для обзора товара, без покупки. Характер товара медицинское назначение. Будет не менее 5 групп, в каждой 6-10 подгрупп, далее описание товара и прайс. ",
-    "website": null
-  },
-  "55": {
-    "id": 862501827,
-    "title": "Верстка",
-    "href": "/projects/verstka-1215528.html",
-    "price": "5000",
-    "description": " Верстка 1 страницы (корзина OpenCart) с последующей установкой. Макет есть",
-    "website": null
-  },
-  "56": {
-    "id": 758038347,
-    "title": "Макет страниц сайта",
-    "href": "/projects/maket-stranic-sajta-1215525.html",
-    "price": "Договорная",
-    "description": " Привет, разрабатываем сайт ритуальной тематики! Что есть:\n\n1) Старый сайт\n2) Маркетинговое исследование\n3) Собранная семантика\n4) Структура сайта\n5) Прототип …",
-    "website": null
-  },
-  "57": {
-    "id": 242280498,
-    "title": "Одностраничный сайт с платежной системой",
-    "href": "/projects/odnostranichny-sajt-s-platezhnoj-sistemoj-1215518.html",
-    "price": "Договорная",
-    "description": " Для продажи одной книги и картинок нужно одностраничный сайт с платежной системой яндекс кассы и т.п. \n",
-    "website": null
-  },
-  "58": {
-    "id": 337388356,
-    "title": "Сделать похожий сайт на Wordpress",
-    "href": "/projects/sdelat-pohozhij-sajt-na-wordpress-1215516.html",
-    "price": "3000",
-    "description": " Нужно сделать похожий сайт mainfin.ru/\nНо более простой, наполнить хотя бы демо контентом чтобы было удобно ориентироваться, подробное тз составлю через пару дней\n…",
-    "website": null
-  },
-  "59": {
-    "id": 571104046,
-    "title": "Инстаграмм ",
-    "href": "/projects/instagramm-1215515.html",
-    "price": "Договорная",
-    "description": " Требуется разработка и продвижение Инстаграмм аккаунта по продаже премиум алкоголя и табачных изделий в ночное время с доставкой.",
-    "website": null
-  },
-  "60": {
-    "id": 350073291,
-    "title": "Добработки лендинга с квизом",
-    "href": "/projects/dobrabotki-lendinga-s-kvizom-1215510.html",
-    "price": "3500",
-    "description": " Есть лендинг с верстанным квизом на 7 вопросов\nВкратце надо создать пару страниц, подправить формы на ленде, добавить в квиз доп. страницу после ввода контактов по…",
-    "website": null
-  },
-  "61": {
-    "id": 375880916,
-    "title": "Перенос сайта и новый дизайн",
-    "href": "/projects/perenos-sajta-i-novy-dizajn-1215507.html",
-    "price": "Договорная",
-    "description": " \nТЗ для нового сайта iTunes-Cards.com\n\nПеренести текущий функционал с сайта iTunes-Cards.com\nа) выбор и отправка кодов по смс и email\nб) База клиентов email и …",
-    "website": null
-  },
-  "62": {
-    "id": 827182282,
-    "title": "Доработка сайта на WordPress для запуска в продуктив",
-    "href": "/projects/dorabotka-sajta-na-wordpress-dlya-zapuska-v-produktiv-1215501.html",
-    "price": "25000",
-    "description": " Ищем адекватного разработчика, который поможет доработать сайт для его полноценного запуска со всем нужным функционалом.\nСайт разработан самостоятельно в CMS Wordp…",
-    "website": null
-  },
-  "63": {
-    "id": 630219467,
-    "title": "Дизайн - Верстка",
-    "href": "/projects/dizajn-verstka-1215496.html",
-    "price": "Договорная",
-    "description": " Разработка дизайна многостраничного сайта . Далее , его верстка .\nПлан , логотип и стили уже есть в наличии .\nТак же есть примеры первых страниц \n",
-    "website": null
-  },
-  "64": {
-    "id": 305981306,
-    "title": "Создать сайт на моем конструкторе ",
-    "href": "/projects/sozdat-sajt-na-moem-konstruktore-1215494.html",
-    "price": "Договорная",
-    "description": " Есть оплаченный доступ для создания сайтов лэндингов в сервисе justclick.ru\nЕсть созданные сайты на сервисе https://ex-in.ru\nНеобходимо информацию с лэндингов  на…",
-    "website": null
-  },
-  "65": {
-    "id": 313478147,
-    "title": "Доработка исходного кода для уже существующего сайта",
-    "href": "/projects/dorabotka-ishodnogo-koda-dlya-uzhe-sushestvuyushego-sajta-1215482.html",
-    "price": "Договорная",
-    "description": " Нужно актуализировать и доработать исходный код движка для сайта:\n\n1. Завершить слияние временных веток таких как development с основной веткой кода, в пользу при…",
-    "website": null
-  },
-  "66": {
-    "id": 89252270,
-    "title": "Сверстать лендинг по макету.",
-    "href": "/projects/sverstat-lending-po-maketu-1215453.html",
-    "price": "Договорная",
-    "description": " Сверстать лендинг по макету.\nЕсть видеофоны, карусели (лого клиентов, и проигрыватель звуковых файлов).\nМакет в личку при выборе верстальщика.\nУказывайте примерн…",
-    "website": null
-  },
-  "67": {
-    "id": 910643062,
-    "title": "перенос интенет магазина.",
-    "href": "/projects/perenos-intenet-magazina-1215446.html",
-    "price": "7000",
-    "description": " Нужно с Битрикса перенести интернет магазин на Вэбассист.домен остается,меняется шаблон(предоставим) и переносится по ссылкам товар,все предоставим.Весь фукционал т…",
-    "website": null
-  },
-  "68": {
-    "id": 243625611,
-    "title": "Необходимо изменить дизайн уже существующего сайта,  предложить изменения, оживить его.",
-    "href": "/projects/neobhodimo-izmenit-dizajn-uzhe-sushestvuyushego-sajta-predlozhit-izmeneniya-1215445.html",
-    "price": "Договорная",
-    "description": " Необходимо изменить дизайн сайта, предложить изменения шрифтов, возможно фон, рамки, расположение, вкладки. Оживить его, где-то добавить какие-то плюшки, примочки. …",
-    "website": null
-  },
-  "69": {
-    "id": 236039270,
-    "title": "Редизайн сайта, подключить к 1С",
-    "href": "/projects/redizajn-sajta-podklyuchit-k-1s-1215435.html",
-    "price": "Договорная",
-    "description": " \nНужно сделать редизайн сайта интернет магазина.\nНа сайте есть много лишнего, нужно привести\nего в порядок и подключить к системе управления 1С.",
-    "website": null
-  },
-  "70": {
-    "id": 258249550,
-    "title": "Установить систему оплат бронирований 2checkout под ключ ",
-    "href": "/projects/ustanovit-sistemu-oplat-bronirovanij-2checkout-pod-klyuch-1215433.html",
-    "price": "1200",
-    "description": " Необходимо установить систему оплаты бронирований для сайта \n\nhttp://eraeliya.com/\n\nВ качестве Booking плагина используется https://vikwp.com/plugin/vikbooking …",
-    "website": null
-  },
-  "71": {
-    "id": 447615152,
-    "title": "Сайт товаров и услуг",
-    "href": "/projects/sajt-tovarov-i-uslug-1215425.html",
-    "price": "70000",
-    "description": " Сайт товаров и услуг.\nИдея: На сайте предлагаем всевозможные услуги, а также некоторые типы товаров. Мы не приглашаем на наш сайт всех подряд. Только лучших в свое…",
-    "website": null
-  },
-  "72": {
-    "id": 2930663,
-    "title": "Переделать сайт",
-    "href": "/projects/peredelat-sajt-1215423.html",
-    "price": "4500",
-    "description": " Задача\nДобрый день, есть действующий сайт www.zaponki.pro , создан на Джумле (сейчас последняя версия). Есть необходимость переделать сайт, а именно:\n1. Установит…",
-    "website": null
-  },
-  "73": {
-    "id": 998152797,
-    "title": "Веб-мастер для создания сайта ювелирных украшений",
-    "href": "/projects/veb-master-dlya-sozdaniya-sajta-yuvelirnih-ukrashenij-1215409.html",
-    "price": "Договорная",
-    "description": " Ищу специалиста для создания одностраничного сайта с опытом создания сайтов ювелирных украшений. Необходим подтверждённый опыт работы с примерами и информация о кон…",
-    "website": null
-  },
-  "74": {
-    "id": 105061399,
-    "title": "Доработка проекта PHP",
-    "href": "/projects/dorabotka-proekta-php-1215406.html",
-    "price": "30000",
-    "description": " Доработка проекта на PHP, опыт работы с wordpress, html, css и javascript.",
-    "website": null
-  },
-  "75": {
-    "id": 310609658,
-    "title": "Ищу веб-программиста (только Алматы)",
-    "href": "/projects/ishu-veb-programmista-tolko-almati-1215388.html",
-    "price": "Договорная",
-    "description": " Нужен веб программист для дальнейшего сотрудничества. \nУмеющий верстать по макету из Figma \nЗП обговорим ",
-    "website": null
-  },
-  "76": {
-    "id": 167991100,
-    "title": "Нужно восстановить доступ к CMS Wordpress",
-    "href": "/projects/nuzhno-vosstanovit-dostup-k-cms-wordpress-1215380.html",
-    "price": "Договорная",
-    "description": " Нужно восстановить доступ к CMS Wordpress\nПочта и логин пользователя-администратора CMS Wordpress отсутствуют\nДоступы к хостингу, где размещен сайт отсутствуют\n\n…",
-    "website": null
-  },
-  "77": {
-    "id": 180352245,
-    "title": "Нужно сделать , чтобы цвета колясок менялись при нажатие на цвет. Тильда",
-    "href": "/projects/nuzhno-sdelat-chtobi-cveta-kolyasok-menyalis-pri-nazhatie-1215372.html",
-    "price": "Договорная",
-    "description": " Нужно сделать как тут во 2 блоке https://yoya.store/#!/tab/153393718-1",
-    "website": null
-  },
-  "78": {
-    "id": 257727535,
-    "title": "Разработка платежного агрегатора",
-    "href": "/projects/razrabotka-platezhnogo-agregatora-1215371.html",
-    "price": "20000",
-    "description": " Нужно разработать платежный агрегатор наподобие free-kassa.ru",
-    "website": null
-  },
-  "79": {
-    "id": 487674602,
-    "title": "Простой сайт для клининговой компании",
-    "href": "/projects/prostoj-sajt-dlya-kliningovoj-kompanii-1215362.html",
-    "price": "Договорная",
-    "description": " Простой сайт для клининговой компании с дальнейшим продвижением. \nНа сайте : функционал, позволяющий оставить заявку, форма обратной связи. Калькулятор клининга, н…",
-    "website": null
-  },
-  "80": {
-    "id": 147319566,
-    "title": "Калькулятор для сайта wordpress",
-    "href": "/projects/kalkulyator-dlya-sajta-wordpress-1215352.html",
-    "price": "10100",
-    "description": " Здравствуйте!\nНужен калькулятор для сайта wordpress\nФункционал такой:\nПосле перехода на страницу товара, нужно воспользоваться калькулятором, функционал должен б…",
-    "website": null
-  },
-  "81": {
-    "id": 29752179,
-    "title": "Нужен дизайн и верстка сайта",
-    "href": "/projects/nuzhen-dizajn-i-verstka-sajta-1215350.html",
-    "price": "Договорная",
-    "description": " Добрый день. Необходимо выполнить дизайн и верстку страниц корпоративного сайта, включая мобильную версию. Сайт около 40 страниц, включая личный кабинет.  Так же по…",
-    "website": null
-  },
-  "82": {
-    "id": 582953299,
-    "title": "Сайт ставок на спорт",
-    "href": "/projects/sajt-stavok-na-sport-1215346.html",
-    "price": "Договорная",
-    "description": " Необходимо создание сайта ставок на спорт (букмекерская контора). ",
-    "website": null
-  },
-  "83": {
-    "id": 662112739,
-    "title": "Дизайн выше среднего. Дорогой сайт под ключ, услуги транспортной компании, с опытом в данной сфере, сделать тестовую страницу.",
-    "href": "/projects/dizajn-vishe-srednego-dorogoj-sajt-pod-klyuch-uslugi-1215342.html",
-    "price": "Договорная",
-    "description": " Для начала сделать тестовую страницу, чтобы мы понимали, что будете делать - оплатим. Сделать за 2-4дня.\nПримеры сайтов для наполнения. musor.moscow mmusor.ru oooe…",
-    "website": null
-  },
-  "84": {
-    "id": 607651430,
-    "title": "Написать код для определенного функционала на сайте, созданного на Тильде",
-    "href": "/projects/napisat-kod-dlya-opredelennogo-funkcionala-sajte-sozdannogo-tilde-1215336.html",
-    "price": "10000",
-    "description": " Для выездного салона красоты нужна доработка на сайт https://nice-time.ru/msklite\n\nЧтобы пользователю можно было легко заказать мастера туда, куда ему нужно, нужн…",
-    "website": null
-  },
-  "85": {
-    "id": 847687233,
-    "title": "Подключить админ панель к сайту - Bitrix CMS",
-    "href": "/projects/podklyuchit-admin-panel-k-sajtu-bitrix-cms-1215331.html",
-    "price": "Договорная",
-    "description": " Здравствуйте! Нужен back end и посадка сайта на админку Битрикса, чтобы была возможность править весь контент из кабинета на сайте. Как графический, так и текстовый…",
-    "website": null
-  },
-  "86": {
-    "id": 157954861,
-    "title": "Разработка Лэндинга",
-    "href": "/projects/razrabotka-lendinga-1215329.html",
-    "price": "Договорная",
-    "description": " Требуется специалист, который сможет полностью разработать и запустить сайт с имеющимся дизайном. То есть надо сделать всю техническую часть: верстку, программирова…",
-    "website": null
-  },
-  "87": {
-    "id": 119036189,
-    "title": "шаблон сайта DLE",
-    "href": "/projects/shablon-sajta-dle-1215320.html",
-    "price": "Договорная",
-    "description": " Добрый день! \nНужно сделать готовый шаблон новостного сайта на DLE  - главная страница, полная новость и статическая страница. Версия DLE 14.0",
-    "website": null
-  },
-  "88": {
-    "id": 1599694,
-    "title": "Доделать меню на мобильной версии интернет-магазина. (Скорее всего JS)",
-    "href": "/projects/dodelat-menyu-mobilnoj-versii-internet-magazina-skoree-vsego-1215308.html",
-    "price": "2000",
-    "description": " Нужно сделать выпадающее меню в мобильной версии сайта https://kimiko-shop.ru. Сейчас показывается только категория, хотим, чтобы меню выпадало и показывались подка…",
-    "website": null
-  },
-  "89": {
-    "id": 400985296,
-    "title": "Ищу специалиста разбирающимся в хостинге амазон - AWS",
-    "href": "/projects/ishu-specialista-razbirayushimsya-v-hostinge-amazon-aws-1215301.html",
-    "price": "500",
-    "description": " Привет нужно установить сайт WP на хостинг AWS.Прошлый программист почти все сделал но в последний момент исчез.Работы не много для опытного чела работы максимум на…",
-    "website": null
-  },
-  "90": {
-    "id": 432493928,
-    "title": "Загрузка файлов на Joomla",
-    "href": "/projects/zagruzka-fajlov-na-joomla-1215300.html",
-    "price": "Договорная",
-    "description": " Здравствуйте, необходимо сделать аналогичный сервис печати фотографий онлайн https://rufoto.online/order/upload/\n\nСтраница сайта для реализации данного сервиса: h…",
-    "website": null
-  },
-  "91": {
-    "id": 230524444,
-    "title": "Получение каталога товаров на сайт с помощью POST запроса",
-    "href": "/projects/poluchenie-kataloga-tovarov-sajt-s-pomoshyu-post-zaprosa-1215290.html",
-    "price": "Договорная",
-    "description": " Нужно настроить получение каталога товаров с сайта поставщика, на наш сайт. Есть инструкция как это сделать, я в ней не разбираюсь. Нужно отправлять POST запрос. Ин…",
-    "website": null
-  },
-  "92": {
-    "id": 584693639,
-    "title": "Лэндинг на тильде",
-    "href": "/projects/lending-na-tilde-1215280.html",
-    "price": "9000",
-    "description": " ВНИМАНИЕ, при откилике- пишите \"Сделаю сайт на тильде\"\nПОЖАЛУЙСТА, откликайтесь те у кого есть опыт! и реально оценивают свои силы и возможности.\nК пись…",
-    "website": null
-  },
-  "93": {
-    "id": 190541102,
-    "title": "Вложения файлов для custom_mail",
-    "href": "/projects/vlozheniya-fajlov-dlya-custommail-1215278.html",
-    "price": "Договорная",
-    "description": " У нас применяется custom_mail (почему - это отдельный разговор), - проблема во вложениях. Необходимо, чтобы в веб-формах обратной связи были вложения и они отправля…",
-    "website": null
-  },
-  "94": {
-    "id": 739808093,
-    "title": "Контент менеджер",
-    "href": "/projects/kontent-menedzher-1215274.html",
-    "price": "20000",
-    "description": " Ведение интернет магазина.наполнение товаров.новости,тексты.Знание програмирования,так как многа товара добавляем по ссылкам,не вручную.Постоянная работа.",
-    "website": null
-  },
-  "95": {
-    "id": 977864677,
-    "title": "увеличить скорость,оптимизировать сайт",
-    "href": "/projects/uvelichit-skorost-optimizirovat-sajt-1215273.html",
-    "price": "Договорная",
-    "description": " Интернет магазин,нужно увеличить скорость загрузки,оптимизировать,исправить ошибки.Сайт на битриксе.",
-    "website": null
-  },
-  "96": {
-    "id": 233702240,
-    "title": "доработка сайт на WordPress",
-    "href": "/projects/dorabotka-sajt-na-wordpress-1215271.html",
-    "price": "15000",
-    "description": " Доработать сайт на Wordpress по ТЗ\nДобавить разделы,\nУбрать не нужную информацию \nВ дальнейшем обслуживание сайта \n",
-    "website": null
-  },
-  "97": {
-    "id": 107186657,
-    "title": "Требуется внести правки в верстку сайта",
-    "href": "/projects/trebuetsya-vnesti-pravki-v-verstku-sajta-1215270.html",
-    "price": "2000",
-    "description": " Требуется внести правки в верстку сайта www.paradis-mebel.ru, а именно\n 1) В корзине https://paradis-mebel.ru/personal/cart/ сделать правый блок плавающим при боль…",
-    "website": null
-  },
-  "98": {
-    "id": 910610172,
-    "title": "Разместить готовый лендинг на ucoz",
-    "href": "/projects/razmestit-gotovy-lending-na-ucoz-1215268.html",
-    "price": "Договорная",
-    "description": " Здравствуйте! Есть готовый landing voda-vdom.ru, нужно разместить его на ucoz, чтобы квиз и все формы работали также как и без ucoz",
-    "website": null
-  },
-  "99": {
-    "id": 135444142,
-    "title": "Сайт для доставки еды ",
-    "href": "/projects/sajt-dlya-dostavki-edi-1215266.html",
-    "price": "15000",
-    "description": " Дизайн сайта для доставки еды. Категории:\nСуши\nWok\nПицца \nСалаты\nНапитки\nДесерты\n\n\n",
-    "website": null
-  },
-  "100": {
-    "id": 67522866,
-    "title": "Обработка прайс-листа для импорта на сайт интернет-магазина",
-    "href": "/projects/obrabotka-prajs-lista-dlya-importa-sajt-internet-magazina-1215265.html",
-    "price": "Договорная",
-    "description": " Ищем человека, который бы подготовил прайс-лист (примерно 4 000 наименований) поставщика для импорта в WP. Основная проблема: название имиджей – это артикул+описани…",
-    "website": null
-  },
-  "101": {
-    "id": 154834398,
-    "title": "Ворд пресс",
-    "href": "/projects/vord-press-1215261.html",
-    "price": "Договорная",
-    "description": " Сайт находится на ворд прессе. Наши статьи на сайтах партнеров выходят в  поиске,а мы нет. Посмотреть в чем дело, решить вопрос.",
-    "website": null
-  },
-  "102": {
-    "id": 95663688,
-    "title": "Сделать лендинг",
-    "href": "/projects/sdelat-lending-1215260.html",
-    "price": "4000",
-    "description": " Нужно сверстать лендинг, без анимаций, html+css. \nБез предоплаты, вы делаете у себя, принимаю- оплачиваю, вы переносите на мой хостинг. антибот 5+17=\nБюджет 4т.\n…",
-    "website": null
-  },
-  "103": {
-    "id": 485540063,
-    "title": "Сайт требуется  ",
-    "href": "/projects/sajt-trebuetsya-1215259.html",
-    "price": "3000",
-    "description": " Требуется создание классического сайта небольшого объема. ",
-    "website": null
-  },
-  "104": {
-    "id": 758259611,
-    "title": "добавить раздел отзывы на сайт опенкард",
-    "href": "/projects/dobavit-razdel-otzivi-na-sajt-openkard-1215258.html",
-    "price": "Договорная",
-    "description": " на сайт https://luxury-men.ru/ добавить раздел отзывы как на сайте https://gelingens.ru/",
-    "website": null
-  },
-  "105": {
-    "id": 179528185,
-    "title": "Установить магазин на Opencart",
-    "href": "/projects/ustanovit-magazin-na-opencart-1215252.html",
-    "price": "20000",
-    "description": " Есть список страниц: Главная страница, Личный кабинет, Корзина, Оплата, Каталог, Карточка товара, Контакты, FAQ, Новости, Одна новость \nНеобходимо натянуть на open…",
-    "website": null
-  },
-  "106": {
-    "id": 389578407,
-    "title": "Одностраничный сайт-визитка \"под ключ\"",
-    "href": "/projects/odnostranichny-sajt-vizitka-pod-klyuch-1215251.html",
-    "price": "Договорная",
-    "description": " Нужен одностраничный сайт-визитка, под одну, единственную услугу. Сайт с юридической тематикой, узко-направленный. Сайт носит информативный характер, с формой связи…",
-    "website": null
-  },
-  "107": {
-    "id": 936442807,
-    "title": "Доработка и развитие сайта",
-    "href": "/projects/dorabotka-i-razvitie-sajta-1215234.html",
-    "price": "Договорная",
-    "description": " Необходимо сделать небольшие доработки на сайт, поставить админку. Далее развития сайта.",
-    "website": null
-  },
-  "108": {
-    "id": 633731624,
-    "title": "Сайт под ключ, услуги транспортной компании, с опытом в данной сфере, сделать тестовую страницу.",
-    "href": "/projects/sajt-pod-klyuch-uslugi-transportnoj-kompanii-opitom-dannoj-1215233.html",
-    "price": "Договорная",
-    "description": " Для начала сделать тестовую страницу, чтобы мы понимали, что будете делать - оплатим. Сделать за 2-4дня.\nПримеры сайтов для наполнения. musor.moscow mmusor.ru oooe…",
-    "website": null
-  },
-  "109": {
-    "id": 769058529,
-    "title": "Импорт товаров в магазин на Опенкарт",
-    "href": "/projects/import-tovarov-v-magazin-na-openkart-1215213.html",
-    "price": "Договорная",
-    "description": " Здравствуйте!\n\nДля демонаполнения магазина мне нужна выгрузка товара на любую тематику (интересуют различные тематики).\nПросьба предлагать выгрузки с базовыми да…",
-    "website": null
-  },
-  "110": {
-    "id": 449564109,
-    "title": "Сайт для контроля работы ",
-    "href": "/projects/sajt-dlya-kontrolya-raboti-1215206.html",
-    "price": "Договорная",
-    "description": " Нужно создать сайт для контроля долгов владельцев магазинов при закупке товаров в долг.\n\nВо многих магазинах распространен вариант работы, когда компания через св…",
-    "website": null
-  },
-  "111": {
-    "id": 343904487,
-    "title": "Написать формулу для объединения столбцов в гугл таблицах.",
-    "href": "/projects/napisat-formulu-dlya-obedineniya-stolbcov-v-gugl-tablicah-1215205.html",
-    "price": "Договорная",
-    "description": " Нужно написать формулу для объединения столбцов в гугл таблицах.\nПример по фото. Имеются 8 столбцов. A-H\nВ итог попадает сначала А2-D2,следующей строкой E2-H2.\nД…",
-    "website": null
-  },
-  "112": {
-    "id": 977447248,
-    "title": "Нужен веб-разработчик написать сайт по сбору статистики с телеграм каналов",
-    "href": "/projects/nuzhen-veb-razrabotchik-napisat-sajt-sboru-statistiki-telegram-1215198.html",
-    "price": "10000",
-    "description": " Здравствуйте, нужен веб-разработчик для написания сайта с нуля по сбору статистики телеграм каналов.\n\nСбора статистики и парсинг на сайт:\n\nА именно:\nГрафик пос…",
-    "website": null
-  },
-  "113": {
-    "id": 555296679,
-    "title": "Прикрутить обновление курса криптовалюты",
-    "href": "/projects/prikrutit-obnovlenie-kursa-kriptovalyuti-1215196.html",
-    "price": "Договорная",
-    "description": " Есть полностью настроенный скрипт обменника криптовалют. Необходимо прикрутить авто обновление курса (когда человек вводит например 0.01 btc - он видит что получит …",
-    "website": null
-  },
-  "114": {
-    "id": 887152622,
-    "title": "Разработка персонального сайта художника",
-    "href": "/projects/razrabotka-personalnogo-sajta-hudozhnika-1215192.html",
-    "price": "Договорная",
-    "description": " Нужно разработать сайт для художника с возможностью в дальнейшем заказчику самостоятельно добавлять изображения и информацию к ним, публикации, вносить изменения и …",
-    "website": null
-  },
-  "115": {
-    "id": 927274166,
-    "title": "Настройка плагина Simple WordPress Membership",
-    "href": "/projects/nastrojka-plagina-simple-wordpress-membership-1215188.html",
-    "price": "Договорная",
-    "description": " Нужно разобраться с плагином Simple WordPress Membership\nПлагин не отправляет письма с ссылкой для регистрации пользователям, оплатившим подписку.\nСапорт хостинга…",
-    "website": null
-  },
-  "116": {
-    "id": 596304843,
-    "title": "Нужно изготовить несколько посадочных продающих страниц",
-    "href": "/projects/nuzhno-izgotovit-neskolko-posadochnih-prodayushih-stranic-1215175.html",
-    "price": "Договорная",
-    "description": " Необходимо изготовить несколько лендинг-пейдж. Тематика строительство. Более подробная информация в личке.",
-    "website": null
-  },
-  "117": {
-    "id": 580381855,
-    "title": "Поиск специалиста CSS+HTML+JS+DLE оформление, адаптация, кроссбраузерность, эффекты.",
-    "href": "/projects/poisk-specialista-css-html-dle-oformlenie-adaptaciya-krossbrauzernost-1215174.html",
-    "price": "Договорная",
-    "description": " От просто до велика. Css оформление главной, оформление чатов, оформление множественные элементы, блоки и размещение их правильно под разные устройства.\nНужен чело…",
-    "website": null
-  },
-  "118": {
-    "id": 506343072,
-    "title": "Сайт для проекта Авторских путешествий",
-    "href": "/projects/sajt-dlya-proekta-avtorskih-puteshestvij-1215173.html",
-    "price": "Договорная",
-    "description": " Мои нужды\nПо дизайну:\n\nhttps://fatbus.ru\n\nhttps://www.kolesnikov.travel/\n\nhttps://moroccoteam.ru\n\nПо информационному скелету:\n\nhttps://cheese.travel/tour…",
-    "website": null
-  },
-  "119": {
-    "id": 613703671,
-    "title": "Разработка сайта",
-    "href": "/projects/razrabotka-sajta-1215170.html",
-    "price": "Договорная",
-    "description": " Создание сайта плюс сео продвижение. Тематика ремонт компьтеров.\nРассматриваю как разработку дизайна, так и с использованием шаблона.",
-    "website": null
-  },
-  "120": {
-    "id": 304900207,
-    "title": "Разработка макета дизайна сайта для последующей верстки на платформе Tilda",
-    "href": "/projects/razrabotka-maketa-dizajna-sajta-dlya-posleduyushej-verstki-platforme-1215160.html",
-    "price": "Договорная",
-    "description": " По готовому тех. заданию необходимо разработать макет дизайна многостраничного сайта компании. У компании уже имеются фирменные цвета и айдентика, необходимо разраб…",
-    "website": null
-  },
-  "121": {
-    "id": 661187228,
-    "title": "Нужен небольшой интернет магазин",
-    "href": "/projects/nuzhen-nebolshoj-internet-magazin-1215155.html",
-    "price": "Договорная",
-    "description": " Нужен интернет магазин . Три основных страницы, открытие карточки товара при клике с описанием и ценами. Желательно дешевле, можно на констрикторе. Нужно подключить…",
-    "website": null
-  },
-  "122": {
-    "id": 575459652,
-    "title": "Создание интернет-магазина под ключ",
-    "href": "/projects/sozdanie-internet-magazina-pod-klyuch-1215124.html",
-    "price": "50000",
-    "description": " Требуется создание многостраничного сайта для интернет-магазина подарков вместе с созданием КРАСИВОГО (как в примерах сайтов в середине задания) дизайна.\n\nТребова…",
-    "website": null
-  },
-  "123": {
-    "id": 371801303,
-    "title": "Разработка дизайна и верстка сайта в Москве",
-    "href": "/projects/razrabotka-dizajna-i-verstka-sajta-v-moskve-1215119.html",
-    "price": "30000",
-    "description": " Доброго времени суток, нужна разработка дизайна и верстки сайта с возможностью оффлайн встреч с обсуждением в Москве, у нас в офисе. Офис находится в ЮЗАО.\n\nСайт …",
-    "website": null
-  },
-  "124": {
-    "id": 20052169,
-    "title": "нужен дизайн для сайта кето диет",
-    "href": "/projects/nuzhen-dizajn-dlya-sajta-keto-diet-1215117.html",
-    "price": "9000",
-    "description": " hello, I am searching design for Keto diet web page, please contact me who can make design like this web page and what will be price for it, thanks :)",
-    "website": null
-  },
-  "125": {
-    "id": 537029960,
-    "title": "Разработка конструктора на сайт",
-    "href": "/projects/razrabotka-konstruktora-na-sajt-1215109.html",
-    "price": "Договорная",
-    "description": " Необходимо выполнить разработку визуального конструктора рам и зеркал для сайта багетной мастерской www.modern1.ru \nПриветствуется опыт создания конструктора мебел…",
-    "website": null
-  },
-  "126": {
-    "id": 313460094,
-    "title": "Back-end разработчик в перспективе на постоянной основе.",
-    "href": "/projects/back-end-razrabotchik-v-perspektive-na-postoyannoj-osnove-1215107.html",
-    "price": "Договорная",
-    "description": " Набираем в команду Back-end разработчиков со знанием английского языка.\n\nПросим заинтересованным отправлять портфолио в телеграмм +358 40 2160180. ···\n\n",
-    "website": null
-  },
-  "127": {
-    "id": 39682725,
-    "title": "Программист специализирующий на верстке Wordpress.",
-    "href": "/projects/programmist-specializiruyushij-na-verstke-wordpress-1215104.html",
-    "price": "Договорная",
-    "description": " Набираем в команду программистов специализирующих на верстке в ворпрессе. В перспективе на постоянной основе. \n\nСобираем команду для создание сайтов с нуля и на w…",
-    "website": null
-  },
-  "128": {
-    "id": 220006869,
-    "title": "Доработка сайтов ",
-    "href": "/projects/dorabotka-sajtov-1215094.html",
-    "price": "Договорная",
-    "description": " Здравствуйте. У меня есть 4 однотипных сайта которые нужно доработать. Они все на вордпресс. Нужно сделать подвал , футер. Кое-где блоки поменять .  \n Сайты следую…",
-    "website": null
-  },
-  "129": {
-    "id": 817945772,
-    "title": "Поиск гуру CSS, оформление, адаптация, кроссбраузерность, знание js. (+DLE)",
-    "href": "/projects/poisk-guru-css-oformlenie-adaptaciya-krossbrauzernost-znanie-dle-1215090.html",
-    "price": "Договорная",
-    "description": " От просто до велика. Css оформление главной, оформление чатов, оформление множественные элементы и блоки и размещение их правильно под разные устройства.\nНужен чел…",
-    "website": null
-  },
-  "130": {
-    "id": 900799195,
-    "title": "Смена домена сайта, редактирования форм и блоков ",
-    "href": "/projects/smena-domena-sajta-redaktirovaniya-form-i-blokov-1215085.html",
-    "price": "Договорная",
-    "description": " Доброго времени суток, Ситуация такова нужно в срочном порядке поменять домен на сайте, соответственно грамотно подойти к вопросу. И отредактировать формы (изменить…",
-    "website": null
-  },
-  "131": {
-    "id": 65649408,
-    "title": "Создание портала-агрегатора студенческих научных проектов",
-    "href": "/projects/sozdanie-portala-agregatora-studencheskih-nauchnih-proektov-1215084.html",
-    "price": "Договорная",
-    "description": " Что-то среднее между kickstarter и ВК, где молодые специалисты могут представлять свои проекты, искать участников в команды, получать консультации и финансовую подд…",
-    "website": null
-  },
-  "132": {
-    "id": 198832841,
-    "title": "Сделать сайт на Тильде для бухгалтерской компании",
-    "href": "/projects/sdelat-sajt-na-tilde-dlya-buhgalterskoj-kompanii-1215050.html",
-    "price": "Договорная",
-    "description": " Сделать сайт на Тильде для финансовых услуг. \n\nОсновные услуги:\nБухгалтерский аутсорсинг \nФинансовый аудит \n\nВторичные услуги:\n\nСдача нулевой отчетности \nВ…",
-    "website": null
-  },
-  "133": {
-    "id": 165501717,
-    "title": "Сайт доставки еды",
-    "href": "/projects/sajt-dostavki-edi-1215048.html",
-    "price": "Договорная",
-    "description": " Нужно сделать сайт доставки еды на распространенной CMS. Примерно как должно выглядеть:\nhttps://лавсуши22.рф - только не нужны фильтры, желательно чтобы меню товар…",
-    "website": null
-  },
-  "134": {
-    "id": 466875842,
-    "title": "Требуется ре-дизайн сайта",
-    "href": "/projects/trebuetsya-re-dizajn-sajta-1215041.html",
-    "price": "Договорная",
-    "description": " Требуется сделать ре-дизайн сайта www.firstccss.com, переверстать его и вывесить в новом дизайне.\nПо отдельным продуктам созданы LP:\nwww.hk.legal\nwww.cnlandingpa…",
-    "website": null
-  },
-  "135": {
-    "id": 733347760,
-    "title": "Быстро нужен красивый лендинг тренинга",
-    "href": "/projects/bistro-nuzhen-krasivy-lending-treninga-1215040.html",
-    "price": "Договорная",
-    "description": " Нужно срочно - желательно не более 2х дней - сделать небольшой лендинг для интенсива \"Как быстро и легко выйти из развода (расставания). \n\nИнтенсив будет ана…",
-    "website": null
-  },
-  "136": {
-    "id": 891487139,
-    "title": "Django Auth",
-    "href": "/projects/django-auth-1215035.html",
-    "price": "7000",
-    "description": " Привет. Требуется интеграция аутентификации системы Django с тремя соц сетями - Google, Facebook, LinkedIn. Плюс конфигурация встроенной системы аутентификации Djan…",
-    "website": null
-  },
-  "137": {
-    "id": 814404553,
-    "title": "Сайт с каталогом для строительной организации",
-    "href": "/projects/sajt-s-katalogom-dlya-stroitelnoj-organizacii-1215017.html",
-    "price": "30000",
-    "description": " Добрый день! Ищу готового начать завтра специалиста, который сможет реализовать сайт для строительной организации. Он будет с более сложным каталогом чем сайт fjord…",
-    "website": null
-  },
-  "138": {
-    "id": 703818499,
-    "title": "Разработка дизайна сайта экшн камер",
-    "href": "/projects/razrabotka-dizajna-sajta-ekshn-kamer-1215012.html",
-    "price": "Договорная",
-    "description": " Здравствуйте!\n\nЕсть задача, нужно сделать для меня дизайн сайта по продаже экшн камер go pro.\n\nЦель - оставить заявку на сайта.\nКлиент может оплатить онлайн.\n…",
-    "website": null
-  },
-  "139": {
-    "id": 584595911,
-    "title": "Сайт доставки пиццы и суши",
-    "href": "/projects/sajt-dostavki-picci-i-sushi-1215005.html",
-    "price": "Договорная",
-    "description": " Нужен стильный, лаконичный и удобный и простой сайт, как ориентир dodopizza",
-    "website": null
-  },
-  "140": {
-    "id": 326809459,
-    "title": "Магазин авто запчасти",
-    "href": "/projects/magazin-avto-zapchasti-1214986.html",
-    "price": "Договорная",
-    "description": " Синхронизация с поставшиками  праисами",
-    "website": null
-  },
-  "141": {
-    "id": 745475705,
-    "title": "Требуется доработать сайт-директорию (эскорт), выполненный на wordpress",
-    "href": "/projects/trebuetsya-dorabotat-sajt-direktoriyu-eskort-vipolnenny-na-wordpress-1214982.html",
-    "price": "Договорная",
-    "description": " Есть сайт escortsportal точка ком. Выполнен на wordpress. Сайт представляет из себя директорию с возможностью регистрации для пользователей. Соответственно, пользов…",
-    "website": null
-  },
-  "142": {
-    "id": 896811488,
-    "title": "Нужен специалист по WordPress",
-    "href": "/projects/nuzhen-specialist-po-wordpress-1214974.html",
-    "price": "Договорная",
-    "description": " нужен специалист для развития интернет-магазина. В основном внутренние работы с сайтом. Корректировка дизайна,дополнение функционала и т.д",
-    "website": null
-  },
-  "143": {
-    "id": 863191905,
-    "title": "Программист на фрилансе ",
-    "href": "/projects/programmist-na-frilanse-1214962.html",
-    "price": "Договорная",
-    "description": " Ищем веб программистов (можно начинающих) для удаленной работы. \nОбязанности: создание сайтов, приложений, мелкие задачи.\nЖелательно: опыт работы с платформой Ecw…",
-    "website": null
-  },
-  "144": {
-    "id": 66034097,
-    "title": "Интернет магазин",
-    "href": "/projects/internet-magazin-1214952.html",
-    "price": "13000",
-    "description": " Создать и заполнить интернет магазин продающий элетро-изделия, выключатели, розетки. Сразу настройка для Яндекс магазина и настройка рекламы. требуется работа дизай…",
-    "website": null
-  },
-  "145": {
-    "id": 662645982,
-    "title": "Обучение Wordpress на практике с целью создания интернет магазина ",
-    "href": "/projects/obuchenie-wordpress-praktike-s-celyu-sozdaniya-internet-magazina-1214951.html",
-    "price": "Договорная",
-    "description": " Требуется дистанционное или очное обучение работе с Wordpress с целью создания интернет магазина ",
-    "website": null
-  },
-  "146": {
-    "id": 232557953,
-    "title": "Переделать сайт под нас",
-    "href": "/projects/peredelat-sajt-pod-nas-1214943.html",
-    "price": "Договорная",
-    "description": " \nНужно полностью скопировать и переделать сайт под нас!\nпоменять все страницы- текста и тд и тп.\nПредложить вариант полной переделки с текстами и видео перезапис…",
-    "website": null
-  },
-  "147": {
-    "id": 706864612,
-    "title": "Строительный лэндинг",
-    "href": "/projects/stroitelny-lending-1214942.html",
-    "price": "10000",
-    "description": " Сделать Landing Page для строительной компании, дизайн, макет сайта уже есть ",
-    "website": null
-  },
-  "148": {
-    "id": 93958925,
-    "title": "Настроить на рабочем эквайринге woocommerce уже подключенный google pay",
-    "href": "/projects/nastroit-rabochem-ekvajringe-woocommerce-uzhe-podklyuchenny-google-1214939.html",
-    "price": "3500",
-    "description": " настроить Google Pay на сайте, карты не надо, они работают из кабинета банка – по API документации",
-    "website": null
-  },
-  "149": {
-    "id": 628190403,
-    "title": " Создание сайта",
-    "href": "/projects/sozdanie-sajta-1214925.html",
-    "price": "9000",
-    "description": " Необходим свой простой сайт для работы с клиентами. Размещение и регулярное обновление информации текст фото, видео. Подробности при личном общении. Спасибо!",
-    "website": null
-  },
-  "150": {
-    "id": 16729919,
-    "title": "Натянуть тему WordPress для маркетплейса",
-    "href": "/projects/natyanut-temu-wordpress-dlya-marketplejsa-1214920.html",
-    "price": "100000",
-    "description": " Макеты: https://yadi.sk/d/sYetJs1_dqNCuA\nВерстка уже готова. Требуется натянуть на WordPress с возможностью кастомизации в админке.\nИсполнителю предоставим подроб…",
-    "website": null
-  },
-  "151": {
-    "id": 745778810,
-    "title": "Оптимизировать модуль LIVEOPENCART: Изображения опций Ultimate под шаблон Journal 2. Opencart 3.0.3.1.",
-    "href": "/projects/optimizirovat-modul-liveopencart-izobrazheniya-opcij-ultimate-pod-1214919.html",
-    "price": "Договорная",
-    "description": " Здравствуйте. Установил модуль: LIVEOPENCART: Изображения опций Ultimate (Product Option Image Pro Ultimate 3.1.0), но он не работает. Суть модуля: Менять главное и…",
-    "website": null
-  },
-  "152": {
-    "id": 564596910,
-    "title": "Верстка адаптивной страницы Знакомства",
-    "href": "/projects/verstka-adaptivnoj-stranici-znakomstva-1214904.html",
-    "price": "Договорная",
-    "description": " Необходимо сверстать адаптивную страницу Знакомства для прототипа сайта.  \n\nТЗ здесь: https://docs.google.com/document/d/12eDaLa4Tdc7iOlwW7roGRDGxbUApZRckXxVeXMGr…",
-    "website": null
-  },
-  "153": {
-    "id": 367193393,
-    "title": "Сайт",
-    "href": "/projects/sajt-1214889.html",
-    "price": "Договорная",
-    "description": " Сколько будет стоит сделать  вот такой сайт http://Premiumes.ca",
-    "website": null
-  },
-  "154": {
-    "id": 119924403,
-    "title": "Дизайн прототипа",
-    "href": "/projects/dizajn-prototipa-1214886.html",
-    "price": "Договорная",
-    "description": " Необходимо нарисовать дизайн лендинга. Прототип в приложении.\n\n\nНеобходимо, чтобы дизайн был светлым. С большим количеством красивых, сочных, цветных картинок.\n…",
-    "website": null
-  },
-  "155": {
-    "id": 182617357,
-    "title": "Переверстать шапку Сайта одностраничника. ",
-    "href": "/projects/pereverstat-shapku-sajta-odnostranichnika-1214882.html",
-    "price": "Договорная",
-    "description": " Добрый день, необходимо сделать верстку шапки сайта - для того, чтобы указать email, номер телефона, укажите цену. Сайт на движке. \n",
-    "website": null
-  },
-  "156": {
-    "id": 656520675,
-    "title": "Помощь в интеграции платежной системы в Woocommerce",
-    "href": "/projects/pomosh-v-integracii-platezhnoj-sistemi-v-woocommerce-1214871.html",
-    "price": "Договорная",
-    "description": " Нужно помочь с интеграцией, сейчас платеж отправляется в сервис, но не знаю как проверить транзакцию со стороны магазина",
-    "website": null
-  },
-  "157": {
-    "id": 29652059,
-    "title": "По нашим дизайн-макетам сделать сайт на Tilda",
-    "href": "/projects/po-nashim-dizajn-maketam-sdelat-sajt-na-tilda-1214865.html",
-    "price": "Договорная",
-    "description": " Здарвствуйте!  \n\nНужен спец по tilda, который сможет наши дизайн макеты перенести в Tilda.  \n\nМакеты еще не готовы и сможем предоставить их позже, но чтобы пони…",
-    "website": null
-  },
-  "158": {
-    "id": 819072304,
-    "title": "CMS NetCat корректировка сайта-создать новый дизайн и структуру страниц",
-    "href": "/projects/cms-netcat-korrektirovka-sajta-sozdat-novy-dizajn-strukturu-1214857.html",
-    "price": "Договорная",
-    "description": " На сайте с CMS NetCatнеобходимо внести корректировку в дизайн страниц. Чтоб можно было наполнять разделы страниц по шаблону, который необходимо создать на основе пр…",
-    "website": null
-  },
-  "159": {
-    "id": 676488456,
-    "title": "Сладколандия",
-    "href": "/projects/sladkolandiya-1214856.html",
-    "price": "Договорная",
-    "description": " Необходим интернет магазин по продаже сладостей, конфет, мармелад и т.д. Сайт должен быть оригинальным и не строгим. Должен быть дружелюбным. Красочным. Возможно вс…",
-    "website": null
-  },
-  "160": {
-    "id": 493428469,
-    "title": "Сделать стандартный лендинг для продажи экспресс тестов на COVID-19",
-    "href": "/projects/sdelat-standartny-lending-dlya-prodazhi-ekspress-testov-covid-1214855.html",
-    "price": "1000",
-    "description": " Одностраничный лендинг с формой заявки и описанием товара \nТовар: Экспресс тест на COVId -19\nИнформацию о товаре предоставлю. \nЗадача протестировать спрос на тов…",
-    "website": null
-  },
-  "161": {
-    "id": 429380266,
-    "title": "Создание сайта (Laravel + Vue) и настройка платежного скрипта (Bitcoin Core)",
-    "href": "/projects/sozdanie-sajta-laravel-vue-nastrojka-platezhnogo-skripta-bitcoin-1214850.html",
-    "price": "275000",
-    "description": " Требуется сделать сайт (10 внутренних страниц + 1 главная) с личными кабинетами с нуля на Laravel + Vue и админкой, а также связать всё с готовым скриптом оплаты вн…",
-    "website": null
-  },
-  "162": {
-    "id": 406561312,
-    "title": "Доработка интерфейса интернет- магазина",
-    "href": "/projects/dorabotka-interfejsa-internet-magazina-1214849.html",
-    "price": "9000",
-    "description": " Существует работающий на WIX интернет-магазин, титульная страница нуждается в обновлении, размещении фото и видеоматериалов которые описывают товары интернет-магази…",
-    "website": null
-  },
-  "163": {
-    "id": 106593146,
-    "title": "Доработать сайт. Кабинет",
-    "href": "/projects/dorabotat-sajt-kabinet-1214841.html",
-    "price": "Договорная",
-    "description": " Делал  сайт для себя (интерес). Все вроде работает кроме кабинета и капчи (не обновляется всегда одна и та же). Хотелось бы увидеть как делают профи. Посмотреть код…",
-    "website": null
-  },
-  "164": {
-    "id": 56998192,
-    "title": "Ищу web-разработчик для выполнения задач в CMS (Wordpress, Joomla).",
-    "href": "/projects/ishu-web-razrabotchik-dlya-vipolneniya-zadach-cms-wordpress-1214840.html",
-    "price": "Договорная",
-    "description": " Я seo-специалист, предлагаю взаимовыгодное сотрудничество  web-разработчикам.\nПериодически возникают задачи (в моих проектах), которые нуждаются в профессиональном…",
-    "website": null
-  },
-  "165": {
-    "id": 796985369,
-    "title": "Доработка блоков конструктора Сайты24 (CMS 1c-битрикс)",
-    "href": "/projects/dorabotka-blokov-konstruktora-sajti24-cms-1c-bitriks-1214839.html",
-    "price": "Договорная",
-    "description": " Необходимо доработать блок конструктора Сайты24 (входит в CMS 1c-битрикс)\nНазвание блока :  \" Список товаров\" из раздела \"интернет магазин\"\nДо…",
-    "website": null
-  },
-  "166": {
-    "id": 29646965,
-    "title": "Простой сайт для ввода и просмотра текстовых данных",
-    "href": "/projects/prostoj-sajt-dlya-vvoda-i-prosmotra-tekstovih-dannih-1214838.html",
-    "price": "Договорная",
-    "description": " Нужен простой сайт для ввода и просмотра данных.\n\nЕсть понятия - операторы, администраторы, работники, категории.\n\nПри входе на сайт - простой запрос логина и п…",
-    "website": null
-  },
-  "167": {
-    "id": 166742787,
-    "title": "Поиск гуру CSS, оформление, адаптация, кроссбраузерность, знание js.",
-    "href": "/projects/poisk-guru-css-oformlenie-adaptaciya-krossbrauzernost-znanie-js-1214836.html",
-    "price": "Договорная",
-    "description": " От просто до велика. Css оформление главной, оформление чатов, оформление множественные элементы и блоки и размещение их правильно под разные устройства.\nНужен чел…",
-    "website": null
-  },
-  "168": {
-    "id": 205082785,
-    "title": "Дизайнер-верстальщик для постоянного сотрудничества по правкам на страницах сайтов",
-    "href": "/projects/dizajner-verstalshik-dlya-postoyannogo-sotrudnichestva-pravkam-stranicah-1214826.html",
-    "price": "Договорная",
-    "description": " Дизайнер-верстки для сотрудничества",
-    "website": null
-  },
-  "169": {
-    "id": 611924350,
-    "title": "интернет магазин - внутриигровых услуг (wow,cs,dota, и др) под ключ полное сопровождение + SEO",
-    "href": "/projects/internet-magazin-vnutriigrovih-uslug-wow-dota-pod-klyuch-1214820.html",
-    "price": "Договорная",
-    "description": " В рамкам данного проекта необходимо поставить сайт под ключ , с полным функционалом и настройкой системы оплаты, операторов, и др.+ SEO\nпримеры сайтов конкурентов\n…",
-    "website": null
-  },
-  "170": {
-    "id": 754475641,
-    "title": "Создание сайта",
-    "href": "/projects/sozdanie-sajta-1214811.html",
-    "price": "30000",
-    "description": " Разработать сайт по ТЗ:\nhttps://docs.google.com/document/d/1nAe4TDzIlBJ3D_VGrUY4pgUUqJFKihGGL1A_25qb9Cs/edit?usp=drivesdk\n\nПодробности можно обсудить. Важное усл…",
-    "website": null
-  },
-  "171": {
-    "id": 69456255,
-    "title": "Нужно доделать сайт на html",
-    "href": "/projects/nuzhno-dodelat-sajt-na-html-1214802.html",
-    "price": "1300",
-    "description": " Нужно доделать сайт http://test22.lenfinans.ru/:\n\n- Поправить меню мобильной версии  \n- Активировать формы связи, чтобы они приходили на почту \n\nДополнительно …",
-    "website": null
-  },
-  "172": {
-    "id": 140129083,
-    "title": "Доработка frontend на Vue.js",
-    "href": "/projects/dorabotka-frontend-na-vue-js-1214790.html",
-    "price": "Договорная",
-    "description": " Требуется senior фронтенд-разработчик на Vue.js, для оптимизации, добавления функционала.  \nБекенд на Laravel \nВерстка имеется. Необходимые доработки подробно опи…",
-    "website": null
-  },
-  "173": {
-    "id": 540769543,
-    "title": "Разработка дизайна продающего лендинга в двух вариантах в Figma",
-    "href": "/projects/razrabotka-dizajna-prodayushego-lendinga-dvuh-variantah-v-figma-1214780.html",
-    "price": "12500",
-    "description": " Требуется разработать дизайн продающего лендинга (или небольшого магазина до 10 позиций) по продаже и доставке импортных фруктов по городу. Лендинг нужен в двух вар…",
-    "website": null
-  },
-  "174": {
-    "id": 561068194,
-    "title": "Сайт под ключ, услуги транспортной компании, с опытом в данной сфере, сделать тестовую страницу.",
-    "href": "/projects/sajt-pod-klyuch-uslugi-transportnoj-kompanii-opitom-dannoj-1214770.html",
-    "price": "Договорная",
-    "description": " Для начала сделать тестовую страницу, чтобы мы понимали, что будете делать - оплатим. Сделать за 2-4дня.\nПримеры сайтов для наполнения. musor.moscow  mmusor.ru  oo…",
-    "website": null
-  },
-  "175": {
-    "id": 951435679,
-    "title": "Калькулятор бетонного завода",
-    "href": "/projects/kalkulyator-betonnogo-zavoda-1214748.html",
-    "price": "Договорная",
-    "description": " Необходимо сделать калькулятор (конфигуратор) бетонного завода.\nПодробности во вложении (описание и пример интерфейса).\nЕсть сайт на WordPress, калькулятор будет …",
-    "website": null
-  },
-  "176": {
-    "id": 501002667,
-    "title": "Разработка формы записи и расписания посещений",
-    "href": "/projects/razrabotka-formi-zapisi-i-raspisaniya-poseshenij-1214736.html",
-    "price": "Договорная",
-    "description": " Сайт музея на Битрикс, необходимо создать форму записи на сайте, с отображением расписания посещений и отправкой уведомлений работникам музея о записавшихся на экск…",
-    "website": null
-  },
-  "177": {
-    "id": 451737522,
-    "title": "Требуется специалист WordPress с опытом интеграции различных сервисов в ВП.",
-    "href": "/projects/trebuetsya-specialist-wordpress-opitom-integracii-razlichnih-servisov-1214730.html",
-    "price": "Договорная",
-    "description": " Просьба подавать заявку только после полного и тщательного прочтения задания. Пожалуйста, сначала вникните в суть задачи и только после её понимания, задавайте вопр…",
-    "website": null
-  },
-  "178": {
-    "id": 848926920,
-    "title": "Разработка сайта компании",
-    "href": "/projects/razrabotka-sajta-kompanii-1214727.html",
-    "price": "Договорная",
-    "description": " Требуется разработать сайт с удобной cms (можно взять готовую). Сайт статический без всяких обратных связей, расчетов и др. просто сайт визитка. Нравиться сайт bvi.…",
-    "website": null
-  },
-  "179": {
-    "id": 586938885,
-    "title": "Лендинг под ключ",
-    "href": "/projects/lending-pod-klyuch-1214725.html",
-    "price": "Договорная",
-    "description": " Необходимо создать лендинг для компании , занимающейся ремонтом квартир\nСайт должен быть адаптивным и современным, также нужны формы отправки контактных данных на …",
-    "website": null
-  },
-  "180": {
-    "id": 30447755,
-    "title": "Анализ юзабили сайта и проработка современной структуры",
-    "href": "/projects/analiz-yuzabili-sajta-i-prorabotka-sovremennoj-strukturi-1214724.html",
-    "price": "Договорная",
-    "description": " Поддержание современных решений и интуитивно понятной структуры в отрасли \"банкротство\"",
-    "website": null
-  },
-  "181": {
-    "id": 981497694,
-    "title": "Проработка дизайна сайта flbankrot.ru",
-    "href": "/projects/prorabotka-dizajna-sajta-flbankrot-ru-1214722.html",
-    "price": "Договорная",
-    "description": " Внесение изменений в дизайн сайта, в соответствии с фирменным стилем. ",
-    "website": null
-  },
-  "182": {
-    "id": 137227639,
-    "title": "Калькулятор(Конфигуратор) сборки ПК на сайте",
-    "href": "/projects/kalkulyator-konfigurator-sborki-pk-na-sajte-1214720.html",
-    "price": "Договорная",
-    "description": " Нужно сделать калькулятор некий конфигуратор сборки ПК  (Сайт на Bitrix24)\nПример оставлю закрепленной ссылкой\nhttps://hyperpc.ru/configurator/gaming-1/config\n\n…",
-    "website": null
-  },
-  "183": {
-    "id": 198134173,
-    "title": "Сделать интернет магазин под ключ  на 40-50 товаров. ",
-    "href": "/projects/sdelat-internet-magazin-pod-klyuch-40-50-tovarov-1214718.html",
-    "price": "Договорная",
-    "description": " Сделать интернет магазин под ключ в каталоге на 40-50 товаров, с продающими те\nкстати, рекламой на баннере и т. д. ",
-    "website": null
-  },
-  "184": {
-    "id": 158307578,
-    "title": "Создание станицы компании  на Википедия",
-    "href": "/projects/sozdanie-stanici-kompanii-na-vikipediya-1214713.html",
-    "price": "1200",
-    "description": " Необходимо создать информацию о нашей компании на википедии на 2 языках.",
-    "website": null
-  },
-  "185": {
-    "id": 742002206,
-    "title": "OpenCart 3.x Создание дополнительных модулей для вывода данных ",
-    "href": "/projects/opencart-x-sozdanie-dopolnitelnih-modulej-dlya-vivoda-dannih-1214711.html",
-    "price": "Договорная",
-    "description": " Только Безопасная сделка!\n\nДано: \nСайт, на OpenCart 3, стоит шаблон Ultrastore. В базе выгружена информация о товарах, категориях, производителях, пользователях.…",
-    "website": null
-  },
-  "186": {
-    "id": 409513471,
-    "title": "создание сайта",
-    "href": "/projects/sozdanie-sajta-1214707.html",
-    "price": "Договорная",
-    "description": " необходим сайт для продажи автомобильной техники в интернет на 100 ед с удобной загрузкой информации и возможности рекламы техники в фейсбук и гугл\n",
-    "website": null
-  },
-  "187": {
-    "id": 345316475,
-    "title": "React новый проект сайт + мобильное приложение. ",
-    "href": "/projects/react-novy-proekt-sajt-mobilnoe-prilozhenie-1214702.html",
-    "price": "Договорная",
-    "description": " Новый проект. Регистрация, личный кабинет, кошелек с популярными криптовалютными токенами, отслеживание курса валют + приложение на android ios.",
-    "website": null
-  },
-  "188": {
-    "id": 507156454,
-    "title": "Нужно сделать правки на лендинге",
-    "href": "/projects/nuzhno-sdelat-pravki-na-lendinge-1214684.html",
-    "price": "Договорная",
-    "description": " Привет.\nЕсть бесплатный шаблон лендинга с сайта lp-free.ru\nКольцевые LED лампы со штативом\nНужно сделать правки:\n1. Скачать лендинг с сайта lp-free.ru\n2. Сдела…",
-    "website": null
-  },
-  "189": {
-    "id": 756926308,
-    "title": "Разработка дизайна сайта массажного салона в диалоге с заказчиком",
-    "href": "/projects/razrabotka-dizajna-sajta-massazhnogo-salona-dialoge-s-zakazchikom-1214683.html",
-    "price": "Договорная",
-    "description": " Нужен творческий человек с логическим мышлением)\n\nЗаказ в виде набросков на бумаге (фото)\nСтиль сайта - классика. Упор на простоту и функциональность.\nНо изнача…",
-    "website": null
-  },
-  "190": {
-    "id": 805296724,
-    "title": "Создание карты с отметками точек по кадастровому номеру",
-    "href": "/projects/sozdanie-karti-s-otmetkami-tochek-po-kadastrovomu-nomeru-1214682.html",
-    "price": "15000",
-    "description": " Ищем программиста который может разработать веб сервис. \nЦентральная задача, имея базу кадастровых номеров, сделать привязку точек на яндекс, гугл картах.",
-    "website": null
-  },
-  "191": {
-    "id": 44991018,
-    "title": "Пересобрать сайты в шаблонах битрикс24",
-    "href": "/projects/peresobrat-sajti-v-shablonah-bitriks24-1214681.html",
-    "price": "Договорная",
-    "description": " Необходимо пересобрать 3 многостраничных сайта на WordPress в модуле \"Сайты\" Битрикс24.\nСсылки пришлю по запросу.\n1 сайт - около 20 +/-стандартных стран…",
-    "website": null
-  },
-  "192": {
-    "id": 88665583,
-    "title": "Верстка Landing Page (8 блоков)",
-    "href": "/projects/verstka-landing-page-8-blokov-1214680.html",
-    "price": "Договорная",
-    "description": " Привет!\n\nНеобходимо сверстать лендинг с адаптивом.\nМакет во вложении. \n\nИсходник в PSD, все по слоям, иконки в svg.\n\nПрошу писать сроки, стоимость, примеры р…",
-    "website": null
-  },
-  "193": {
-    "id": 611127067,
-    "title": "Добавить функцию на сайт в php",
-    "href": "/projects/dobavit-funkciyu-na-sajt-v-php-1214679.html",
-    "price": "1000",
-    "description": " На сайт miniwebtool.ru/ необходимо добавить функцию удаления в результатах выдачи похожих текстов (методом шингла).\n\nКритерии которые должны выбираться\n- Шаг шин…",
-    "website": null
-  },
-  "194": {
-    "id": 514735781,
-    "title": "Интернет-магазин на Тильде",
-    "href": "/projects/internet-magazin-na-tilde-1214671.html",
-    "price": "Договорная",
-    "description": " Хотим сделать небольшой интернет-магазин на Тильде. Нужна помощь. Кто ранее делал, будет плюсом. ",
-    "website": null
-  },
-  "195": {
-    "id": 15667809,
-    "title": "Мобильная адаптация готовой верстки",
-    "href": "/projects/mobilnaya-adaptaciya-gotovoj-verstki-1214669.html",
-    "price": "500",
-    "description": " Привет всем клёвым верстальщикам! Прошу откликнуться тем кто может оперативно выполнить задачу, согласен с бюджетом и сроком, а так же настроен на долгосрочное сотр…",
-    "website": null
-  },
-  "196": {
-    "id": 652548208,
-    "title": "Нужно поправить верстку сайта на evolution cms",
-    "href": "/projects/nuzhno-popravit-verstku-sajta-na-evolution-cms-1214667.html",
-    "price": "Договорная",
-    "description": " Есть сайт сделанный фиговой компанией на evolution cms\n\nНужно по ТЗ сделать доработки и оптимизировать скорость загрузки",
-    "website": null
-  },
-  "197": {
-    "id": 457963685,
-    "title": "Обучить основам WordPress, Elementor",
-    "href": "/projects/obuchit-osnovam-wordpress-elementor-1214666.html",
-    "price": "Договорная",
-    "description": " Обучить основам WordPress, Elementor через голосовую конференцию (есть возможность демонстрации экрана). Ставка почасовая, 200 руб в час.\nДля быстрого ответа пишит…",
-    "website": null
-  },
-  "198": {
-    "id": 284103226,
-    "title": "Функционал и фронт-энд: добавление статьи на сайт на yii2",
-    "href": "/projects/funkcional-front-end-dobavlenie-stati-sajt-na-yii2-1214665.html",
-    "price": "Договорная",
-    "description": " Нужен функционал в админке сайта на yii2, который бы позволял сделать на сайте страницу как в Википедии и, в частности, делать следующее:\n\n1. прописывать заголовк…",
-    "website": null
-  },
-  "199": {
-    "id": 40351774,
-    "title": "Специалист по WordPress",
-    "href": "/projects/specialist-po-wordpress-1214660.html",
-    "price": "Договорная",
-    "description": " Для постоянного сотрудничества, ищем специалиста по WordPress.\nНаш сайт https://mangowebcam.ru сделан на данной платформе. Задачи будут не сложные, бюджет небольшо…",
-    "website": null
-  },
-  "200": {
-    "id": 625599489,
-    "title": "Загрузить Opencart",
-    "href": "/projects/zagruzit-opencart-1214644.html",
-    "price": "1500",
-    "description": " Мне нужно установить opencart на компьютер и перенести все файлы  из папки upload в папку сервера.",
-    "website": null
-  },
-  "201": {
-    "id": 986671964,
-    "title": "Мобильное приложение",
-    "href": "/projects/mobilnoe-prilozhenie-1214639.html",
-    "price": "Договорная",
-    "description": " Нужно разработать мобильное приложение для интернет магазина brutalshop.ru по аналогии с имеющимся",
-    "website": null
-  },
-  "202": {
-    "id": 370086432,
-    "title": "Ищу верстальщика на постоянную занятость",
-    "href": "/projects/ishu-verstalshika-na-postoyannuyu-zanyatost-1214635.html",
-    "price": "Договорная",
-    "description": " Добрый день!\nИщу верстальщика на полный рабочий день в штат продуктовой IT-компании.\n\nЗП 800 USD/мес.\n8-часовой плавающий рабочий день",
-    "website": null
-  },
-  "203": {
-    "id": 268498050,
-    "title": "доработка сайта на платформе datalife engine ",
-    "href": "/projects/dorabotka-sajta-na-platforme-datalife-engine-1214630.html",
-    "price": "25000",
-    "description": " Обновили текущие версию CMS, появились некоторые ошибки в работе сайта, требуется: подключить обновленную версию корзины, отредактировать систему фильтрации, стабил…",
-    "website": null
-  },
-  "204": {
-    "id": 268203302,
-    "title": "Сайт рулетка CS:GO",
-    "href": "/projects/sajt-ruletka-cs-go-1214626.html",
-    "price": "Договорная",
-    "description": " Нужно создать сайт рулетку CS GO. К дизайну никаких особых пожеланий нет. Все должно быть просто и понятно. Стоимость проекта обсудим лично в зависимости от сроков …",
-    "website": null
-  },
-  "205": {
-    "id": 368032022,
-    "title": "Лендинг для EPG Service",
-    "href": "/projects/lending-dlya-epg-service-1214620.html",
-    "price": "45000",
-    "description": " 1. Создание лендинга для продвижения компании в Европе и Северной Америке под ключ\n2. На данный момент есть сайт www.epgservice.ru для России, мы понимаем, что он …",
-    "website": null
-  },
-  "206": {
-    "id": 802108387,
-    "title": "Ошибка на сайте",
-    "href": "/projects/oshibka-na-sajte-1214618.html",
-    "price": "1000",
-    "description": " В поисковиках почему то появляется английская версия страничек вместо русских.\n\nСайт на cs_cart",
-    "website": null
-  },
-  "207": {
-    "id": 874907409,
-    "title": "Создание интернет магазина на платформе Shopware версии 5.6.7",
-    "href": "/projects/sozdanie-internet-magazina-platforme-shopware-versii-6-7-1214611.html",
-    "price": "Договорная",
-    "description": " Необходимо создать на базе приобретенного шаблона интернет магазин, который будет работать на платформе Shopware версии 5.6.7\n\nКроме этого, в магазине должна обяз…",
-    "website": null
-  },
-  "208": {
-    "id": 460562038,
-    "title": "Доработка сайта на Bitrix",
-    "href": "/projects/dorabotka-sajta-na-bitrix-1214608.html",
-    "price": "35000",
-    "description": " 1. Требуется настроить корректную работу функционала формирования заказов\n2. Требуется настроить корректное отображение каталога в личном кабинете клиента и на сам…",
-    "website": null
-  },
-  "209": {
-    "id": 728502161,
-    "title": "Верстка страниц сайта с последующей натежкой на wordpress",
-    "href": "/projects/verstka-stranic-sajta-s-posleduyushej-natezhkoj-na-wordpress-1214592.html",
-    "price": "Договорная",
-    "description": " Нужен профессиональный верстальщик для верстке новых страниц и «натяжке» на wordpress.\nСкажите, пожалуйста, стоимость работы по данной странице.\nРабота на сейчас,…",
-    "website": null
-  },
-  "210": {
-    "id": 801403403,
-    "title": "Нужен парсер прайс-листа",
-    "href": "/projects/nuzhen-parser-prajs-lista-1214591.html",
-    "price": "Договорная",
-    "description": " Задача парсить прайс лист с сайта n1 , далее заливать цены и номенклатурные позиции на сайт n2 на битриксе с небольшими корректировками",
-    "website": null
-  },
-  "211": {
-    "id": 362748046,
-    "title": "Натянуть дизайн на Pixli",
-    "href": "/projects/natyanut-dizajn-na-pixli-1214585.html",
-    "price": "10000",
-    "description": " Задача\nНеобходимо собрать сайт на Pixli.\nПрототип имеется.\n15 типовых страниц с услугами.\nПри ответе, пожалуйста, указывайте\n- Цену выполнения работы,\n- Сроки…",
-    "website": null
-  },
-  "212": {
-    "id": 667918708,
-    "title": "сайт тестирование",
-    "href": "/projects/sajt-testirovanie-1214573.html",
-    "price": "Договорная",
-    "description": " нужно написать каркас сайта, личный кабинет пользователя, раздел онлайн тестирования с генерацией сертификатов после оплаты или ничего. фронт писать не нужно, чисто…",
-    "website": null
-  },
-  "213": {
-    "id": 26859872,
-    "title": "Верстальщик с дизайнерскими умениями - правка верстки готового сайта",
-    "href": "/projects/verstalshik-s-dizajnerskimi-umeniyami-pravka-verstki-gotovogo-sajta-1214568.html",
-    "price": "1000",
-    "description": " Прошу писать тем, у кого есть отзывы и/или готов показать результат сегодня через 2-3 часа после начала. \n\nКонтекст: есть сайт опрятный и красивый. Сделан коряво …",
-    "website": null
-  },
-  "214": {
-    "id": 909350664,
-    "title": "Разработка мобильного приложения Android/IOS",
-    "href": "/projects/razrabotka-mobilnogo-prilozheniya-android-ios-1214564.html",
-    "price": "40000",
-    "description": " Требование к приложению\nНеобходимо разработать мобильное приложение,поддерживающее платформы Apple iOS,Android для последующей публикации в AppStore и Google Play.…",
-    "website": null
-  },
-  "215": {
-    "id": 513678243,
-    "title": "Планировщик задач для компании",
-    "href": "/projects/planirovshik-zadach-dlya-kompanii-1214554.html",
-    "price": "Договорная",
-    "description": " Приложение - планировщик задач.\nПеренести в web-приложение готовый прототип планировщика: база задач, интерфейсы пользователей, механизм согласований задач.\nНастр…",
-    "website": null
-  },
-  "216": {
-    "id": 117776925,
+    "id": 117729114,
     "title": "Front-end web-разработчик (Angular)",
     "href": "/projects/front-end-web-razrabotchik-angular-1214552.html",
     "price": "Договорная",
     "description": " Здравствуйте! \nМы молодая команда опытных и увлеченных программистов. \nИ мы ищем опытного Angular разработчикa для расширения нашей команды. \n\nМы разрабатываем …",
-    "website": null
+    "website": "freelance_ru"
   },
-  "217": {
-    "id": 600166441,
-    "title": "парсинг товаров",
-    "href": "/projects/parsing-tovarov-1214548.html",
+  "3": {
+    "id": 347694777,
+    "title": "Загрузка файлов на Joomla",
+    "href": "/projects/zagruzka-fajlov-na-joomla-1215928.html",
     "price": "Договорная",
-    "description": " Добрый день!\nНеобходимо спарсить товары из более чем 15 магазинов и разместить их на сайте разбив по категориям\n\nссылка на таблицу по парсингу \nhttps://docs.goo…",
-    "website": null
+    "description": " Здравствуйте, необходимо сделать аналогичный сервис печати фотографий онлайн https://rufoto.online/order/upload/\n\nЗаказ приходит на почту, менеджер дальше обрабат…",
+    "website": "freelance_ru"
   },
-  "218": {
-    "id": 488719817,
-    "title": "Сайт с квизом",
-    "href": "/projects/sajt-s-kvizom-1214547.html",
+  "4": {
+    "id": 615995627,
+    "title": "Установить виджет Инстаграм",
+    "href": "/projects/ustanovit-vidzhet-instagram-1216211.html",
     "price": "Договорная",
-    "description": " Необходимо создать сайт с квизом для команды сетевого маркетинга (МЛМ). Данная концепция уже реализована в виде квеста (чат-бот на Сенлере) в ВК, нужно просто адапт…",
-    "website": null
+    "description": " Необходимо установить \"нормальный\" виджет Инстаграм на сайт. Без переходов на сторонние ресурсы (сайты виджета). ",
+    "website": "freelance_ru"
   },
-  "219": {
-    "id": 129694911,
-    "title": "Сайт \"под ключ\" ",
-    "href": "/projects/sajt-pod-klyuch-1214543.html",
+  "5": {
+    "id": 162817946,
+    "title": "Требуется разработчик для выполнения проектных задач",
+    "href": "/projects/trebuetsya-razrabotchik-dlya-vipolneniya-proektnih-zadach-1216208.html",
     "price": "Договорная",
-    "description": " Нужен сайт \"под ключ\" для онлайн заполнения заявлении. ",
-    "website": null
+    "description": " Веб-студии требуется разработчик для выполнения отдельных задач в рамках разработки интернет-магазина. Требуется оценка времени и стоимости задач, задачи пришлю в л…",
+    "website": "freelance_ru"
   },
-  "220": {
-    "id": 787306735,
-    "title": "Каталог товаров разной категории",
-    "href": "/projects/katalog-tovarov-raznoj-kategorii-1214542.html",
+  "6": {
+    "id": 354226223,
+    "title": "Починить \"вход/регистрация\" | CMS XenForo",
+    "href": "/projects/pochinit-vhod-registraciya-cms-xenforo-1216206.html",
     "price": "Договорная",
-    "description": " нужен простейший инет магазин.\nготовые решения приветствуются.\nподробности в личку.\n",
-    "website": null
+    "description": " При нажатии на \"вход/регистрация\" - выскакивает данный popup: https://yadi.sk/i/_w0JvbdRJQSzgg\nSite: forumyuristov(точка)ru\nУкажите в начале отклика &qu…",
+    "website": "freelance_ru"
   },
-  "221": {
-    "id": 460943891,
-    "title": "Front-end: Изменить вид блока объявлений на сайте",
-    "href": "/projects/front-end-izmenit-vid-bloka-obyavlenij-na-sajte-1214533.html",
+  "7": {
+    "id": 464589955,
+    "title": "Выложить товары на сайт wordpress",
+    "href": "/projects/vilozhit-tovari-na-sajt-wordpress-1216192.html",
+    "price": "900",
+    "description": " Выложить товары на сайт wordpress. Товары нужно брать с сайта-поставщика, цена в прайсе  xls",
+    "website": "freelance_ru"
+  },
+  "8": {
+    "id": 322286068,
+    "title": "Тестовое задание по дизайну сайта на Битрикс24.Сайты",
+    "href": "/projects/testovoe-zadanie-po-dizajnu-sajta-na-bitriks24-sajti-1216175.html",
+    "price": "1500",
+    "description": " Требуется сделать дизайн многостраничного сайта компании интегратора. Данное задание тестовое на дизайн первой страницы (Лэндинг).\nЦвета:\nОсновной фон: белый\nЦве…",
+    "website": "freelance_ru"
+  },
+  "9": {
+    "id": 848626373,
+    "title": "Доделать статичный сайт ",
+    "href": "/projects/dodelat-statichny-sajt-1216166.html",
+    "price": "2100",
+    "description": " \nЗадача\nНужно доделать сайт http://test22.lenfinans.ru/:\n\n- Поправить меню мобильной версии\n- Активировать формы связи, чтобы они приходили на почту\n- Вставит…",
+    "website": "freelance_ru"
+  },
+  "10": {
+    "id": 102238603,
+    "title": "Передача статусов доставки из Boxberry в Битрикс24",
+    "href": "/projects/peredacha-statusov-dostavki-iz-boxberry-v-bitriks24-1216159.html",
+    "price": "Договорная",
+    "description": " Необходимо организовать передачу статусов доставки из Боксберри в Битрикс24 через Api данных систем.\nСтатусы требуется передавать в Битрикс24 по действующим сделка…",
+    "website": "freelance_ru"
+  },
+  "11": {
+    "id": 191450589,
+    "title": "Поправить валидность кода и скорость загрузки страниц",
+    "href": "/projects/popravit-validnost-koda-i-skorost-zagruzki-stranic-1216154.html",
+    "price": "Договорная",
+    "description": " Добрый день, нужно поправить валидность кода для сайта на opencart и оптимизировать время загрузки страницы.\n\n",
+    "website": "freelance_ru"
+  },
+  "12": {
+    "id": 780203094,
+    "title": "Доделка интернет-магазина на Open Cart",
+    "href": "/projects/dodelka-internet-magazina-na-open-cart-1216151.html",
+    "price": "Договорная",
+    "description": " Ищем прямого разработчика.\nБыл заказан интернет-магазин, который оказался незаконченным.\nЕсть купленный шаблон, который пытались дорабатывать под наши требования,…",
+    "website": "freelance_ru"
+  },
+  "13": {
+    "id": 483547395,
+    "title": "Доработка каталога сайта на битриксе.",
+    "href": "/projects/dorabotka-kataloga-sajta-na-bitrikse-1216148.html",
+    "price": "9000",
+    "description": " Интернет-магазин 60wt.ru на битриксе, шаблон аспро максимум, лицензия Бизнес. Необходимо сделать доработки каталога и карточки товара. \nДоработать каталог товаров.…",
+    "website": "freelance_ru"
+  },
+  "14": {
+    "id": 65461954,
+    "title": "Создание сайта на Тильде",
+    "href": "/projects/sozdanie-sajta-na-tilde-1216142.html",
     "price": "1000",
-    "description": " На сайте есть блок, который представляет собой 2 ряда картинок, которые при наведении курсора увеличиваются и показывается дополнительная информация.\n\nНужно:\n- с…",
-    "website": null
+    "description": " Нужно создать сайт на платформе Тильда (с использованием зеро блоков).\nНа сайти необходимо опубликовать информацию о програмном обеспечении и услугал по исполнител…",
+    "website": "freelance_ru"
   },
-  "222": {
-    "id": 51172816,
-    "title": "Нужен сайт-маркетплейс. Дизайн и бриф имеются. Есть возможность дальнейшего сотрудничества после выполнения проекта.",
-    "href": "/projects/nuzhen-sajt-marketplejs-dizajn-brif-imeyutsya-est-vozmozhnost-1214529.html",
+  "15": {
+    "id": 924972954,
+    "title": "Исправления бага в JS сохраняющий utm метку",
+    "href": "/projects/ispravleniya-baga-v-js-sohranyayushij-utm-metku-1216134.html",
     "price": "Договорная",
-    "description": " Агентство интернет-маркетинга Status International ищет веб-разработчика для создания сайта-маркетплейса (торговой площадки), специализирующегося на хэндмэйд издели…",
-    "website": null
+    "description": " Есть скрипт написанный на js, суть которого сохранять в адресной строке utm метки при переходе между страницами. Но, если в ссылке, указан относительный путь c якор…",
+    "website": "freelance_ru"
   },
-  "223": {
-    "id": 340119501,
-    "title": "Сайт-визитка",
-    "href": "/projects/sajt-vizitka-1214523.html",
-    "price": "Договорная",
-    "description": " Нужно создать сайт-визитку для транспортной компании.\nПримеры:\nhttps://del-ko.ru/\nhttp://лидертранс.рф/\nВсе подробности дам исполнителю при общении.",
-    "website": null
-  },
-  "224": {
-    "id": 362365725,
-    "title": "сайт и интернет магазин",
-    "href": "/projects/sajt-i-internet-magazin-1214512.html",
-    "price": "30000",
-    "description": " сайт и интернет магазин на 1с битрикс. требуется разработка дизайна и наполнение ( контент + товар)",
-    "website": null
-  },
-  "225": {
-    "id": 243061448,
-    "title": "Разработать плагин для CMS Xenforo 2.0",
-    "href": "/projects/razrabotat-plagin-dlya-cms-xenforo-2-0-1214501.html",
+  "16": {
+    "id": 172566510,
+    "title": "Специалист по разработке сайтов",
+    "href": "/projects/specialist-po-razrabotke-sajtov-1216130.html",
     "price": "40000",
-    "description": " Нужен full-stack php разработчик для создания плагина складчин (совместных покупок) для CMS Xenforo 2.0\nТЗ плагина: https://docs.google.com/document/d/1NC1AGm4DubV…",
-    "website": null
+    "description": " Привет, уважаемые фрилансеры!  \nРазыскиваются сайтостроители для работы на ВП, Битрикс, других CMS и также умеющие разрабатывать с нуля. Бывают интересные проекты,…",
+    "website": "freelance_ru"
+  },
+  "17": {
+    "id": 782366755,
+    "title": "Landing Page",
+    "href": "/projects/landing-page-1216117.html",
+    "price": "9000",
+    "description": " Заведению требуется сайт Лэндинг под ключ.\nТематика сайта кальянная + кухня(бургеры, картошка,пицца,чай, пиво итд итп)\nНа сайте нужно:\nБронирование столиков онла…",
+    "website": "freelance_ru"
+  },
+  "18": {
+    "id": 607893645,
+    "title": "GreenSock анимация",
+    "href": "/projects/greensock-animaciya-1216104.html",
+    "price": "5000",
+    "description": " Ищу опытного программиста знающего фреймворк GreenSock\n\nСам начал изучать и есть моменты которые не понятны\nГотов оплатить консультацию!",
+    "website": "freelance_ru"
+  },
+  "19": {
+    "id": 872911041,
+    "title": "Доработать карточку товара и списка на 1с битриксе, шаблон аспро",
+    "href": "/projects/dorabotat-kartochku-tovara-spiska-1s-bitrikse-shablon-aspro-1216102.html",
+    "price": "Договорная",
+    "description": " Доброго дня! Нужно немного поправить карточку товара и страницу списка товаров в категории.\nКарточка товара:\n1.\tСделать фото во всю ширину и высоту блока для карт…",
+    "website": "freelance_ru"
+  },
+  "20": {
+    "id": 53177390,
+    "title": "Исправление лагов на сайте WordPress",
+    "href": "/projects/ispravlenie-lagov-na-sajte-wordpress-1216100.html",
+    "price": "Договорная",
+    "description": " Работаем с сайтом, иногда начинаются проблемы. Например, пропадают кейсы из портфолио или не можем правильно настроить Grid. ",
+    "website": "freelance_ru"
+  },
+  "21": {
+    "id": 115605689,
+    "title": "Натянуть верстку интернет-магазина на CMS , без привязки мерчанта, корзины.",
+    "href": "/projects/natyanut-verstku-internet-magazina-cms-bez-privyazki-merchanta-1216098.html",
+    "price": "10000",
+    "description": " Ссылка на верстку :\nhttps://bit.ly/31vLFmp\nСсылка на Подробное ТЗ:\nhttps://bit.ly/31FwE1z\nИнтернет-магазин. Нужно посадить верстку на cms. Верстка готова, на bo…",
+    "website": "freelance_ru"
+  },
+  "22": {
+    "id": 871512031,
+    "title": "Создание многостраничного сайта видеопродакшна на конструкторе Тильда",
+    "href": "/projects/sozdanie-mnogostranichnogo-sajta-videoprodakshna-na-konstruktore-tilda-1216097.html",
+    "price": "40000",
+    "description": " Нужно создать многостраничный сайт из 10-12 страниц для видеопродакшна и креативного агентства на конструкторе Тильда. \nДизайн сайта должен быть цепляющим внимание…",
+    "website": "freelance_ru"
+  },
+  "23": {
+    "id": 797942882,
+    "title": "Программист в команду для разработки интернет-магазинов под ключ",
+    "href": "/projects/programmist-komandu-dlya-razrabotki-internet-magazinov-pod-klyuch-1216079.html",
+    "price": "Договорная",
+    "description": " Добрый день, уважаемые фрилансеры!\n\nИщу программиста в команду, который разрабатывает интернет-магазины. Я занимаюсь дизайном и вёрсткой. Напишите, с какой платфо…",
+    "website": "freelance_ru"
+  },
+  "24": {
+    "id": 870486831,
+    "title": "Верстак лендинга для вебинара",
+    "href": "/projects/verstak-lendinga-dlya-vebinara-1216069.html",
+    "price": "1500",
+    "description": " Есть дизайн лендинга, необходимо его сверстать и запустить. С формой для регистрации и автоматической рассылкой. ",
+    "website": "freelance_ru"
+  },
+  "25": {
+    "id": 473223735,
+    "title": "дизайн сайта криптообменика",
+    "href": "/projects/dizajn-sajta-kriptoobmenika-1216067.html",
+    "price": "Договорная",
+    "description": " нам требуется под готовый скрипт сайта, сделать дизайн сайта. аналогов в интернете много. один из них: https://cashtrade.pro/\nскрипт готовый будем покупать: https:…",
+    "website": "freelance_ru"
   }
 }

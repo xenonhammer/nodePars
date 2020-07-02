@@ -22,10 +22,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "cheerio": "^1.0.0-rc.3",
-    "iconv": "^3.0.0",
-    "iconv-lite": "^0.6.1",
-    "icu": "0.0.0",
-    "osmosis": "^1.1.10",
-    "request": "^2.88.2"
+    "express": "^4.17.1",
+    "iconv-lite": "^0.6.1"
   }
 }
